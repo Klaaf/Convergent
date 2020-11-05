@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "endergetic:eumus"
+  },
+  "result": "endergetic:eumus_brick",
+  "experience": 0.35,
+  "cookingtime": 80
+}

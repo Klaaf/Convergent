@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "result": "minecraft:smooth_quartz",
+  "experience": 0.35,
+  "cookingtime": 80
+}

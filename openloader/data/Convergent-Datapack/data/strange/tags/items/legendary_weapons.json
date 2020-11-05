@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diamond_sword",
+		"minecraft:diamond_axe",
+		"mysticalworld:diamond_spear",
+		"mysticalworld:diamond_knife",
+		"mysticalworld:amethyst_sword",
+		"mysticalworld:amethyst_axe",
+		"mysticalworld:amethyst_spear",
+		"mysticalworld:amethyst_knife",
+		"druidcraft:moonstone_sword",
+		"druidcraft:moonstone_axe"
+	]
+}

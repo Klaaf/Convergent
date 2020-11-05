@@ -1,0 +1,23 @@
+{
+	"ingredients": [
+		{
+			"item": "minecraft:potato"
+		},
+		{
+			"item": "minecraft:beef"
+		},
+		{
+			"item": "minecraft:potato"
+		},
+		{
+			"item": "enhanced_mushrooms:roasted_mushrooms"
+		}
+	],
+	"result": {
+		"item": "enhanced_mushrooms:beef_stew"
+	},
+	"container": {
+		"item": "minecraft:bowl"
+	},
+	"type": "farmersdelight:cooking"
+}

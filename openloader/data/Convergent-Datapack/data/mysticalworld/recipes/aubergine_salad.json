@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:crops/aubergine"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:cabbage"
+    }
+  ],
+  "result": {
+    "item": "mysticalworld:aubergine_salad",
+    "count": 1
+  }
+}

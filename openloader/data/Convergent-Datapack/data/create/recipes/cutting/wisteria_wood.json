@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+    	{
+    		"item": "bloomful:wisteria_wood"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "bloomful:stripped_wisteria_wood",
+			"count": 1
+		}
+	],
+	"processingTime": 50
+}

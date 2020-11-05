@@ -1,0 +1,9 @@
+{
+	"type": "mysticalmachinery:kiln",
+	"ingredient": {
+		"item": "create:tiled_glass"
+	},
+	"result": "minecraft:glass",
+	"cookingtime": 80,
+	"experience": 0.35
+}

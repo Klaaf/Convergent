@@ -1,0 +1,19 @@
+{
+  "type": "mysticalworld:shapeless_damage_recipe",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:cattail"
+    },
+    {
+      "item": "mysticalworld:spindle"
+    }
+  ],
+  "result": {
+    "item": "minecraft:string",
+    "count": 2
+  },
+  "damage_item": {
+    "item": "mysticalworld:spindle"
+  },
+  "damage_amount": 1
+}

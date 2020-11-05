@@ -1,0 +1,14 @@
+{
+    "type": "create:splashing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:dirt"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "biomesoplenty:mud",
+			"count": 1
+		}
+	]
+}

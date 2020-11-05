@@ -1,0 +1,15 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "quark:soul_sandstone"
+  },
+  "result": "quark:smooth_soul_sandstone",
+  "experience": 0.35,
+  "cookingtime": 80,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "soul_sandstone"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+
+#Config for the spawn blocking torches
+[spawn_blockers]
+	#Range of the grand torch.
+	#Range: > 0
+	grand_torch_range = 64
+	#Range of the bat torch.
+	#Range: > 0
+	bat_torch_range = 64
+	#Range of the small torch.
+	#Range: > 0
+	small_torch_range = 16
+	#Range of the mega torch.
+	#Range: > 0
+	mega_torch_range = 128
+	#Range of the alone torch.
+	#Range: > 0
+	alone_torch_range = 64
+	#Range of the medium torch.
+	#Range: > 0
+	medium_torch_range = 32
+
+#Config for the sound muffling torches
+[sound_mufflers]
+	#Range of the sound muffling torch.
+	#Range: > 0
+	sound_muffling_torch_range = 64
+
+#Config for the chicken egg spawning torches
+[chicken_egg_spawning]
+	#If "false" chicken egg spawning is allowed and is blocked by chicken egg torches.
+	#If "true" chicken egg spawning is disabled and is enabled by chicken egg torches.
+	should_invert_chicken_egg_blocking = false
+	#Range of the chicken egg torch.
+	#Range: > 0
+	chicken_egg_torch_range = 16
+

@@ -1,0 +1,28 @@
+{
+	"type": "enderstorage:create_recipe",
+	"result": {
+		"item": "enderstorage:ender_pouch"
+	},
+	"pattern": [
+		"BRB",
+		"LPL",
+		"BWB"
+	],
+	"key": {
+		"P": {
+			"tag": "forge:ender_pearls"
+		},
+		"L": {
+			"tag": "forge:leather"
+		},
+		"R": {
+			"item": "quark:ravager_hide"
+		},
+		"B": {
+			"item": "minecraft:blaze_powder"
+		},
+		"W": {
+			"tag": "forge:wool"
+		}
+	}
+}

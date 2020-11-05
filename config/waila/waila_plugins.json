@@ -1,0 +1,36 @@
+{
+  "minecraft": {
+    "crop_progress": true,
+    "comparator": true,
+    "hide_infestations": true,
+    "display_furnace_contents": true,
+    "jukebox": true,
+    "lever": true,
+    "spawner_type": true,
+    "redstone": true,
+    "repeater": true
+  },
+  "wawla": {
+    "blast_resistance": false,
+    "growing_cooldown": false,
+    "hide_trap_chest": true,
+    "break_progress": true,
+    "horse_jump": false,
+    "breeding_item": true,
+    "hardness": false,
+    "block_ench_power": true,
+    "table_ench_power": true,
+    "skull_owner": true,
+    "armor_points": true,
+    "frame_contents": true,
+    "horse_speed": false,
+    "villager_type": false,
+    "breeding_cooldown": false
+  },
+  "waila": {
+    "show_registry": false,
+    "show_entity_hp": true,
+    "show_states": false,
+    "show_entities": true
+  }
+}

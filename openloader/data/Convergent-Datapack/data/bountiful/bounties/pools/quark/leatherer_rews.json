@@ -1,0 +1,15 @@
+{
+  "modsRequired": ["quark"],
+  "content": [
+    {
+      "type": "item",
+      "content": "quark:ravager_hide",
+      "amountRange": {
+        "min": 1,
+        "max": 2
+      },
+      "unitWorth": 3500,
+      "weight": 1200
+    }
+  ]
+}

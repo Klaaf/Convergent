@@ -1,0 +1,15 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "quark:dirty_glass"
+  },
+  "result": "minecraft:glass",
+  "experience": 0.35,
+  "cookingtime": 80,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "glass_shard"
+    }
+  ]
+}

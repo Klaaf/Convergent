@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "atmospheric:arid_sandstone"
+  },
+  "result": "atmospheric:smooth_arid_sandstone",
+  "experience": 0.35,
+  "cookingtime": 80
+}

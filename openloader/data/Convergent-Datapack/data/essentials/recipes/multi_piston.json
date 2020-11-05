@@ -1,0 +1,34 @@
+{
+    "type": "create:mechanical_crafting",
+        "pattern": [
+			"ZZZZZ",
+			"BSSSB",
+			"BIPIB",
+			"BIEIB",
+			"BBBBB"
+        ],
+        "key": {
+			"P": {
+                "item": "create:mechanical_piston"
+            },
+            "S": {
+                "item": "create:shadow_steel"
+            },
+			"I": {
+                "item": "create:integrated_circuit"
+            },
+			"B": {
+                "item": "create:brass_ingot"
+            },
+			"Z": {
+                "item": "create:zinc_ingot"
+            },
+			"E": {
+                "item": "create:piston_extension_pole"
+            }
+        },
+	"result": {
+		"item": "essentials:multi_piston",
+		"count": 1
+	}
+}

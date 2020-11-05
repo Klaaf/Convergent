@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LRL",
+    "S S",
+    "I I"
+  ],
+  "key": {
+    "L": {"tag": "forge:leather"},
+    "R": {"item": "quark:ravager_hide"},
+    "S": {"item": "minecraft:string"},
+    "I": {"item": "minecraft:iron_ingot"}
+  },
+  "result": {"item": "minecraft:saddle"}
+}

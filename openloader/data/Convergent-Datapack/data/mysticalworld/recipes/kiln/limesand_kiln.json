@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "create:limesand"
+  },
+  "result": "create:limestone",
+  "experience": 0.5,
+  "cookingtime": 80
+}

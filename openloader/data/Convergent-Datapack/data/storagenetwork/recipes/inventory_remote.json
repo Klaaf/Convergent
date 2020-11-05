@@ -1,0 +1,23 @@
+{
+
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " e ",
+    " m ",
+  	" c "
+  ],
+  "key": {
+    "e": {
+      "item": "create:integrated_circuit"
+    },
+    "m":  {
+	  "item": "storagenetwork:inventory"
+	},
+    "c":  {
+	  "item": "create:refined_radiance"
+	}
+  },
+  "result": {
+    "item": "storagenetwork:inventory_remote"
+  }
+}

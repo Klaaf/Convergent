@@ -1,0 +1,18 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "biomesoplenty:tall_cattail"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/shears"
+  },
+  "result": [
+    {
+      "item": "minecraft:string",
+      "count": 3
+    }
+  ],
+  "effort": 1
+}

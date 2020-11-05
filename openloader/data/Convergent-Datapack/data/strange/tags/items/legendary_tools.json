@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"minecraft:diamond_pickaxe",
+		"minecraft:diamond_shovel",
+		"minecraft:diamond_axe",
+		"minecraft:diamond_hoe",
+		"druidcraft:moonstone_pickaxe",
+		"druidcraft:moonstone_shovel",
+		"druidcraft:moonstone_axe",
+		"druidcraft:moonstone_hoe",
+		"mysticalworld:amethyst_pickaxe",
+		"mysticalworld:amethyst_shovel",
+		"mysticalworld:amethyst_axe",
+		"mysticalworld:amethyst_hoe"
+	]
+}

@@ -1,0 +1,21 @@
+
+[snail]
+	#A list of biomes where snails can spawn. The list doesn't include maple forests.
+	"Snail Spawn Biomes" = ["biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch"]
+	#A list of items that can be fed to snails to produce snail slime.
+	"Snail Food" = ["minecraft:brown_mushroom", "minecraft:red_mushroom", "enhanced_mushrooms:brown_mushroom_stem", "enhanced_mushrooms:red_mushroom_stem", "enhanced_mushrooms:glowshroom_stem", "minecraft:brown_mushroom_block", "minecraft:red_mushroom_block", "quark:glowshroom", "quark:glowshroom_stem", "quark:glowshroom_block", "biomesoplenty:toadstool", "biomesoplenty:glowshroom"]
+	#A list of blocks that make snail slime blocks slippery when placed next to them.
+	"Slippery Snail Slime Blocks" = ["minecraft:wet_sponge"]
+	#A list of blocks snails can eat to produce snail slime.
+	"Snail Block Food" = ["minecraft:brown_mushroom", "minecraft:red_mushroom", "quark:glowshroom"]
+	#A list of items that can be used to breed snails.
+	"Snail Breeding Items" = ["minecraft:mushroom_stew", "minecraft:suspicious_stew"]
+
+[biomes]
+	#A list of biomes where maple trees can naturally generate. The list doesn't include maple forests.
+	"Maple Tree Biomes" = ["minecraft:forest", "minecraft:wooded_hills", "minecraft:flower_forest", "biomesoplenty:seasonal_forest", "biomesoplenty:pumpkin_patch"]
+	#The greater the number the more common the biome is.
+	"Maple Forest Weight" = 6
+	#The greater the number the more common the biome is.
+	"Pumpkin Fields Weight" = 1
+

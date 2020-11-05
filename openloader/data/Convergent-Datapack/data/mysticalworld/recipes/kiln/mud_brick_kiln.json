@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "biomesoplenty:mud_ball"
+  },
+  "result": "biomesoplenty:mud_brick",
+  "experience": 0.35,
+  "cookingtime": 80
+}

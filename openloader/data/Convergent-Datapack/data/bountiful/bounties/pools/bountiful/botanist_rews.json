@@ -1,0 +1,453 @@
+{
+  "content": [
+    {
+      "type": "item",
+      "content": "minecraft:oak_sapling",
+      "amountRange": {
+        "min": 2,
+        "max": 5
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+	{
+      "type": "item",
+      "content": "minecraft:spruce_sapling",
+      "amountRange": {
+        "min": 2,
+        "max": 5
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+	{
+      "type": "item",
+      "content": "minecraft:birch_sapling",
+      "amountRange": {
+        "min": 2,
+        "max": 5
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+	{
+      "type": "item",
+      "content": "minecraft:jungle_sapling",
+      "amountRange": {
+        "min": 2,
+        "max": 5
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+	{
+      "type": "item",
+      "content": "minecraft:acacia_sapling",
+      "amountRange": {
+        "min": 2,
+        "max": 5
+      },
+      "unitWorth": 200,
+      "weight": 1000
+    },
+	{
+      "type": "item",
+      "content": "minecraft:dark_oak_sapling",
+      "amountRange": {
+        "min": 4,
+        "max": 12
+      },
+      "unitWorth": 250,
+      "weight": 900
+    },
+	{
+      "type": "item",
+      "content": "atmospheric:grimwood_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 500,
+      "weight": 200
+    },
+	{
+      "type": "item",
+      "content": "atmospheric:aspen_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 500,
+      "weight": 200
+    },
+	{
+      "type": "item",
+      "content": "atmospheric:kousa_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 500,
+      "weight": 200
+    },
+	{
+      "type": "item",
+      "content": "atmospheric:yucca_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 700
+    },{
+      "type": "item",
+      "content": "atmospheric:rosewood_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 700
+    },
+	{
+      "type": "item",
+      "content": "autumnity:maple_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "autumnity:yellow_maple_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "autumnity:orange_maple_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "autumnity:red_maple_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:origin_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 550,
+      "weight": 250
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:flowering_oak_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 200,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:rainbow_birch_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 550,
+      "weight": 300
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:yellow_autumn_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 250,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:orange_autumn_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 250,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:fir_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:redwood_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:white_cherry_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:pink_cherry_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:mahogany_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:jacaranda_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 700
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:palm_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:willow_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 300,
+      "weight": 800
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:dead_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 200,
+      "weight": 700
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:magic_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 450,
+      "weight": 300
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:umbran_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 450,
+      "weight": 300
+    },
+	{
+      "type": "item",
+      "content": "biomesoplenty:hellbark_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 350
+    },
+	{
+      "type": "item",
+      "content": "bloomful:white_wisteria_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 450
+    },
+	{
+      "type": "item",
+      "content": "bloomful:purple_wisteria_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 450
+    },
+	{
+      "type": "item",
+      "content": "bloomful:blue_wisteria_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 450
+    },
+	{
+      "type": "item",
+      "content": "bloomful:pink_wisteria_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 450
+    },
+	{
+      "type": "item",
+      "content": "druidcraft:darkwood_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 350,
+      "weight": 600
+    },
+	{
+      "type": "item",
+      "content": "druidcraft:elder_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 500
+    },
+	{
+      "type": "item",
+      "content": "quark:blue_blossom_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 400
+    },
+	{
+      "type": "item",
+      "content": "quark:lavender_blossom_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 400
+    },
+	{
+      "type": "item",
+      "content": "quark:orange_blossom_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 400
+    },
+	{
+      "type": "item",
+      "content": "quark:sweet_blossom_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 400
+    },
+	{
+      "type": "item",
+      "content": "quark:sunny_blossom_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 400
+    },
+	{
+      "type": "item",
+      "content": "simplytea:tea_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 500,
+      "weight": 500
+    },
+	{
+      "type": "item",
+      "content": "upgrade_aquatic:river_sapling",
+      "amountRange": {
+        "min": 1,
+        "max": 3
+      },
+      "unitWorth": 400,
+      "weight": 600
+    }
+  ]
+}

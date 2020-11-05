@@ -1,0 +1,19 @@
+
+[Decoration]
+	#Adds barrels and crates for Upgrade Aquatic.
+	"UpgradeAquatic enabled" = true
+	#Adds barrels and crates for Atmospheric.
+	"Atmospheric enabled" = true
+	#Adds barrels and crates for Swamp Expansion.
+	"SwampExpansion enabled" = true
+	#Adds barrels and crates for Bloomful.
+	"Bloomful enabled" = true
+	#Adds barrels and crates for Buzzier Bees.
+	"BuzzierBees enabled" = true
+	#Adds barrels and crates for Endergetic Expansion.
+	"EndergeticExpansion enabled" = true
+	#Adds barrels and crates for Bamboo Blocks.
+	"BambooBlocks enabled" = true
+	#Adds barrels and crates for Autumnity.
+	"Autumnity enabled" = true
+

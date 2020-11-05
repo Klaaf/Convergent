@@ -1,0 +1,22 @@
+{
+  "result": {
+    "item": "waystones:warp_stone"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DED",
+    "EGE",
+    "DED"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gems/amethyst"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "D": {
+      "item": "mysticalworld:young_pearl"
+    }
+  }
+}

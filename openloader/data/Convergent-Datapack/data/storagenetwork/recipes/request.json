@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dkd",
+    "kck",
+    "dkd"
+  ],
+  "key": {
+    "k": {
+      "item": "create:mechanical_crafter"
+    },
+    "d": {
+      "item": "create:andesite_alloy"
+    },
+    "c": {
+      "item": "storagenetwork:inventory"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:request"
+  }
+}

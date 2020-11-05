@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "dkd",
+    "kck",
+    "dkd"
+  ],
+  "key": {
+    "k": {
+      "item": "storagenetwork:kabel"
+    },
+    "d": {
+      "item": "create:polished_rose_quartz"
+    },
+    "c": {
+      "item": "create:andesite_casing"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:master"
+  }
+}

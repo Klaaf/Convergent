@@ -1,0 +1,25 @@
+
+[general]
+	logMissingEntries = false
+	isEnabled = true
+
+	[general.itempickup]
+		#Range: > 0
+		displayTime = 3000
+		itemPickupIsEnabled = true
+		#Range: > 0
+		itemLimit = 10
+		#Range: 0 ~ 1
+		priorityMode = 0
+
+	[general.hotbar]
+		#Range: > -2147483648
+		xOffset = 0
+		mergeDuplicates = true
+		renderOverlays = true
+		enableHotbar = true
+		alwaysShow = false
+		showStacksize = false
+		#Range: 1 ~ 9
+		slotLimit = 3
+

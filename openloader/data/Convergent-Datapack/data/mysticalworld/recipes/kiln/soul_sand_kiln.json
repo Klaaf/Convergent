@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "minecraft:soul_sand"
+  },
+  "result": "create:scoria",
+  "experience": 0.5,
+  "cookingtime": 80
+}

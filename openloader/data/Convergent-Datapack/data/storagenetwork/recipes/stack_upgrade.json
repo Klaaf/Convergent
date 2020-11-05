@@ -1,0 +1,23 @@
+{
+
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "gcg",
+    "gig",
+	"gcg"
+  ],
+  "key": {
+    "c": {
+      "item": "create:electron_tube"
+    },
+    "i":  {
+	  "item": "storagenetwork:kabel"
+	},
+    "g":  {
+	  "item": "create:brass_ingot"
+	}
+  },
+  "result": {
+    "item": "storagenetwork:stack_upgrade"
+  }
+}

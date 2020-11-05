@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "minecraft:diorite"
+  },
+  "result": "create:dolomite",
+  "experience": 0.5,
+  "cookingtime": 80
+}

@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "item": "mysticalworld:cooked_aubergine"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:vegetables"
+    },
+    {
+      "tag": "forge:cooked_vegetables"
+    }
+  ],
+  "result": {
+    "item": "mysticalworld:stuffed_aubergine"
+  },
+  "container": {
+    "item": "mysticalworld:aubergine"
+  }
+}

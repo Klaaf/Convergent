@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "iii",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "create:iron_sheet"
+    },
+    "i": {
+      "tag": "forge:nuggets/copper"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:kabel",
+    "count": 6
+  }
+}

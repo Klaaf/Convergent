@@ -1,0 +1,23 @@
+{
+
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " e ",
+    " m ",
+  	" c "
+  ],
+  "key": {
+    "e": {
+      "item": "create:integrated_circuit"
+    },
+    "m":  {
+	  "item": "storagenetwork:request"
+	},
+    "c":  {
+	  "item": "create:shadow_steel"
+	}
+  },
+  "result": {
+    "item": "storagenetwork:crafting_remote"
+  }
+}

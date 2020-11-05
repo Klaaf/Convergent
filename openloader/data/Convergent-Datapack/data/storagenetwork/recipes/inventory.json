@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aka",
+    "kck",
+    "aka"
+  ],
+  "key": {
+    "k": {
+      "item": "storagenetwork:kabel"
+    },
+    "a": {
+      "item": "create:andesite_alloy"
+    },
+    "c": {
+      "item": "create:brass_casing"
+    }
+  },
+  "result": {
+    "item": "storagenetwork:inventory"
+  }
+}

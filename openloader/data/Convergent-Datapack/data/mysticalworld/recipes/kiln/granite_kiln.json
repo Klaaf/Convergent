@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": "create:gabbro",
+  "experience": 0.5,
+  "cookingtime": 80
+}

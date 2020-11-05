@@ -1,0 +1,15 @@
+{
+    "type": "create:cutting",
+    "ingredients": [
+    	{
+    		"tag": "forge:rods/wooden"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "mysticalmachinery:sawdust",
+			"count": 2
+		}
+	],
+	"processingTime": 50
+}

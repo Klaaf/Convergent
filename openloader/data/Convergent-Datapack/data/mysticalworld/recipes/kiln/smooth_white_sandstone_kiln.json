@@ -1,0 +1,9 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "biomesoplenty:white_sandstone"
+  },
+  "result": "biomesoplenty:smooth_white_sandstone",
+  "experience": 0.35,
+  "cookingtime": 80
+}

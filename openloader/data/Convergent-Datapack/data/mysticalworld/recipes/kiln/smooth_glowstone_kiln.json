@@ -1,0 +1,15 @@
+{
+  "type": "mysticalmachinery:kiln",
+  "ingredient": {
+    "item": "minecraft:glowstone"
+  },
+  "result": "charm:smooth_glowstone",
+  "experience": 0.35,
+  "cookingtime": 80,
+  "conditions": [
+    {
+      "type": "meson:module_enabled",
+      "module": "charm:smooth_glowstone"
+    }
+  ]
+}
