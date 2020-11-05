@@ -74,7 +74,7 @@
 	#Allowed Values: OFF, CROSSHAIR, HOTBAR
 	"Shield Indicator" = "CROSSHAIR"
 	#Hit mobs through blocks without a collision shape such as grass without breaking the block.
-	"Swing Through Grass" = true
+	"Swing Through Grass" = false
 	#Only damages axes by 1 durability instead of 2 when attacking so they properly be used as weapons.
 	"No Axe Attack Penalty" = true
 	#Allow tridents to be fired from dispensers.
