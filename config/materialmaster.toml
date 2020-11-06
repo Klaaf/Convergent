@@ -78,7 +78,7 @@
 	"Swim Speed List" = []
 	#Speed at which the attack cooldown recharges, higher values make it recharge faster.
 	#Actual Range: 0.0 ~ 1024.0
-	"Attack Speed List" = ["mysticalworld:wood_spear,-0.7", "mysticalworld:stone_spear,-0.7", "mysticalworld:iron_spear,-0.7", "mysticalworld:gold_spear,-0.7", "mysticalworld:diamond_spear,-0.7", "mysticalworld:amethyst_spear,-0.7", "mysticalworld:cactus_spear,-0.7", "mysticalworld:silver_spear,-0.7", "mysticalworld:wood_knife,0.7", "mysticalworld:stone_knife,0.7", "mysticalworld:iron_knife,0.7", "mysticalworld:gold_knife,0.7", "mysticalworld:diamond_knife,0.7", "mysticalworld:amethyst_knife,0.7", "mysticalworld:cactus_knife,0.7", "mysticalworld:silver_knife,0.7"]
+	"Attack Speed List" = ["mysticalworld:wood_spear,-0.7", "mysticalworld:stone_spear,-0.7", "mysticalworld:iron_spear,-0.7", "mysticalworld:gold_spear,-0.7", "mysticalworld:diamond_spear,-0.7", "mysticalworld:amethyst_spear,-0.7", "mysticalworld:cactus_spear,-0.7", "mysticalworld:silver_spear,-0.7", "mysticalworld:wood_knife,0.7", "mysticalworld:stone_knife,0.7", "mysticalworld:iron_knife,0.7", "mysticalworld:gold_knife,0.7", "mysticalworld:diamond_knife,0.7", "mysticalworld:amethyst_knife,0.7", "mysticalworld:cactus_knife,0.7", "mysticalworld:silver_knife,0.7", "consecration:fire_stick,0.7"]
 	#Movement speed when walking on land.
 	#Actual Range: 0.0 ~ 1024.0
 	"Movement Speed List" = []
