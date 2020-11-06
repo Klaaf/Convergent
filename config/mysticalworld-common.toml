@@ -51,7 +51,7 @@
 		#Range: 1 ~ 256
 		veinSize = 8
 		#The dimensions that this ore should spawn in as a list (default [0], overworld)
-		dimensions = [0]
+		dimensions = []
 
 	#Quicksilver ore generation.
 	[oregen.Quicksilver_oregen]
@@ -68,13 +68,13 @@
 		#Range: 1 ~ 256
 		veinSize = 4
 		#The dimensions that this ore should spawn in as a list (default [0], overworld)
-		dimensions = [0]
+		dimensions = []
 
 	#Amethyst ore generation.
 	[oregen.Amethyst_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 3
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 0
