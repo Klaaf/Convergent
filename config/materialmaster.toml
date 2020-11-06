@@ -127,7 +127,7 @@
 	#Setting to 0 will make the item unbreakable.
 	#Actual Range: 0.0 ~ 2.147483647E9
 	#Condition: Must have durability
-	"Durability List" = []
+	"Durability List" = ["minecraft:wooden_pickaxe,30", "minecraft:wooden_axe,30", "minecraft:wooden_shovel,30", "minecraft:wooden_sword,30", "minecraft:wooden_hoe,30", "mysticalworld:wood_spear,30", "minecraft:stone_pickaxe,100", "minecraft:stone_axe,100", "minecraft:stone_shovel,100", "minecraft:stone_sword,100", "minecraft:stone_hoe,100", "mysticalworld:stone_spear,100"]
 	#Change harvest level value for any tool item.
 	#Setting to -1 will remove any harvest level present.
 	#Actual Range: 0.0 ~ 2.147483647E9
