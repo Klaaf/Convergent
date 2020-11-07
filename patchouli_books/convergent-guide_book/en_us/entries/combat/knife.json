@@ -1,0 +1,13 @@
+{
+	"name": "Knives",
+	"icon": "mysticalworld:iron_knife",
+	"category": "combat",
+	"sortnum": 5,
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "This is a test page and will need to be rewritten."
+		}
+	]
+}

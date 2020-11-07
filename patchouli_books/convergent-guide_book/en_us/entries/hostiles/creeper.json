@@ -1,0 +1,13 @@
+{
+	"name": "Basic mechanics of combat",
+	"icon": "minecraft:shield",
+	"category": "combat",
+	"sortnum": 1,
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "This is a test page and will need to be rewritten."
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Swords",
+	"icon": "minecraft:iron_sword",
+	"category": "combat",
+	"sortnum": 2,
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "This is a test page and will need to be rewritten."
+		}
+	]
+}

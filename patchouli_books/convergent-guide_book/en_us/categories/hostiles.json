@@ -1,0 +1,6 @@
+{
+	"name": "Hostile Mobs",
+	"description": "In order to increase difficulty, most hostile mobs have received revamps. New hostile mobs have also been added",
+	"icon": "minecraft:zombie_head",
+	"sortnum": 3
+}

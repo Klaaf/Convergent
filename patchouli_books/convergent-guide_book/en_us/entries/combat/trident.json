@@ -1,0 +1,13 @@
+{
+	"name": "Tridents",
+	"icon": "minecraft:trident",
+	"category": "combat",
+	"sortnum": 6,
+	"read_by_default": true,
+	"pages": [
+		{
+			"type": "text",
+			"text": "This is a test page and will need to be rewritten."
+		}
+	]
+}
