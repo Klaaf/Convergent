@@ -80,7 +80,7 @@
 		minY = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		maxY = 24
+		maxY = 16
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 3
