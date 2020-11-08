@@ -1,8 +1,8 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
-	"sortnum": 1,
+	"name": "Straw Golem",
+	"icon": "minecraft:hay_block",
+	"category": "mobs",
+	"sortnum": 14,
 	"read_by_default": true,
 	"pages": [
 		{

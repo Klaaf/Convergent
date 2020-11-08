@@ -1,8 +1,8 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
-	"sortnum": 1,
+	"name": "Conjurer",
+	"icon": "conjurer_illager:conjurer_hat",
+	"category": "hostiles",
+	"sortnum": 10,
 	"read_by_default": true,
 	"pages": [
 		{

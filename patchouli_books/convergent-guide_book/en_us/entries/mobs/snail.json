@@ -1,8 +1,8 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
-	"sortnum": 1,
+	"name": "Snail",
+	"icon": "autumnity:snail_slime",
+	"category": "mobs",
+	"sortnum": 6,
 	"read_by_default": true,
 	"pages": [
 		{

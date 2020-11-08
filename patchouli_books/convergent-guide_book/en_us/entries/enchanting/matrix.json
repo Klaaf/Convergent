@@ -1,6 +1,6 @@
 {
 	"name": "Matrix Enchanting",
-	"icon": "minecraft:enchanted_book",
+	"icon": "minecraft:enchanting_table",
 	"category": "enchanting",
 	"sortnum": 1,
 	"read_by_default": true,

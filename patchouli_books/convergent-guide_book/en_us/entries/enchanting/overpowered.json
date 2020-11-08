@@ -1,6 +1,6 @@
 {
 	"name": "Power Beyond Limits",
-	"icon": "quark:tome",
+	"icon": "quark:ancient_tome",
 	"category": "enchanting",
 	"sortnum": 3,
 	"read_by_default": true,

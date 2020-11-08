@@ -1,8 +1,8 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
-	"sortnum": 1,
+	"name": "Stone Circles",
+	"icon": "strange:runestone_0",
+	"category": "exploration",
+	"sortnum": 5,
 	"read_by_default": true,
 	"pages": [
 		{

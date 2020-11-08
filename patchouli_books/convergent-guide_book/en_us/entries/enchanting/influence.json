@@ -1,6 +1,6 @@
 {
 	"name": "Enchanting Candles influence",
-	"icon": "quark:red_candle",
+	"icon": "quark:yellow_candle",
 	"category": "enchanting",
 	"sortnum": 2,
 	"read_by_default": true,

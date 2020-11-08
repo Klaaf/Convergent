@@ -1,6 +1,6 @@
 {
 	"name": "Convergent Handbook",
-	"landing_text": "This handbook has some few torn pages here and there, but it'll certainly be of great help...",
+	"landing_text": "This handbook has some few torn pages here and there, but it could be really helpful in your journey.",
 	"version": 1,
 	"book_texture": "patchouli:textures/gui/book_gray.png",
 	"model": "patchouli:book_gray",

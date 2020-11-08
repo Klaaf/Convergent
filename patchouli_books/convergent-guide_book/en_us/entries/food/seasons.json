@@ -1,7 +1,7 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
+	"name": "Seasons",
+	"icon": "sereneseasons:calendar",
+	"category": "food",
 	"sortnum": 1,
 	"read_by_default": true,
 	"pages": [

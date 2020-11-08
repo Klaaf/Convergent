@@ -1,8 +1,8 @@
 {
-	"name": "Basic mechanics of combat",
-	"icon": "minecraft:shield",
-	"category": "combat",
-	"sortnum": 1,
+	"name": "Phantom",
+	"icon": "minecraft:phantom_membrane",
+	"category": "hostiles",
+	"sortnum": 6,
 	"read_by_default": true,
 	"pages": [
 		{
