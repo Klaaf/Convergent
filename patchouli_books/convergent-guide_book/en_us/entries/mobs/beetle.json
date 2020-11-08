@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "mysticalworld:carapace",
+		  "title": "Beetle",
+		  "text": "These small insects can be tamed with melon seeds and bred with melon."
+		},
+		{
+		  "type": "entity",
+		  "name": "Beetle",
+		  "entity": "mysticalworld:beetle",
+		  "scale": 1.5,
+		  "offset": -0.3,
+		  "text": ""
 		}
 	]
 }

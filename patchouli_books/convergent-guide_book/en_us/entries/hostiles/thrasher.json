@@ -2,7 +2,7 @@
 	"name": "Thrasher",
 	"icon": "upgrade_aquatic:thrasher_tooth",
 	"category": "hostiles",
-	"sortnum": 14,
+	"sortnum": 13,
 	"read_by_default": true,
 	"pages": [
 		{

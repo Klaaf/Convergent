@@ -6,8 +6,10 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "entity",
+			"entity": "minecraft:zombie",
+			"name": "Undead Mobs",
+			"text": "Undead Mobs (zombie and skeleton variants) have received significant changes in Convergent. "
 		}
 	]
 }

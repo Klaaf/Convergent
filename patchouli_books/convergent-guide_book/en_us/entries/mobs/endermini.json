@@ -1,0 +1,23 @@
+{
+	"name": "Endermini",
+	"icon": "mysticalworld:young_pearl",
+	"category": "mobs",
+	"sortnum": 16,
+	"read_by_default": true,
+	"pages": [
+		{
+		  "type": "spotlight",
+		  "item": "mysticalworld:young_pearl",
+		  "title": "Endermini",
+		  "text": "This subspecy of Endermen won't attack you, but they still don't like being looked at."
+		},
+		{
+		  "type": "entity",
+		  "name": "Endermini",
+		  "entity": "mysticalworld:endermini",
+		  "scale": 0.7,
+		  "offset": 0,
+		  "text": "These creatures often inhabit the End along with their larger siblings, the Endermen."
+		}
+	]
+}

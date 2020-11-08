@@ -6,8 +6,17 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "text",
+		  "title": "Lava Cat",
+		  "text": "These cats made of lava can be tamed with blaze rods or bred with blaze powder. In contact with water they become Obsidian Cats, which are slower but hit harder."
+		},
+		{
+		  "type": "entity",
+		  "name": "Lava Cat",
+		  "entity": "mysticalworld:lava_cat",
+		  "scale": 0.5,
+		  "offset": -0.3,
+		  "text": "Likewise, a trip into lava will revert them."
 		}
 	]
 }

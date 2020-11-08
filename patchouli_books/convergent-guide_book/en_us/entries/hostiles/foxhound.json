@@ -2,7 +2,7 @@
 	"name": "Foxhound",
 	"icon": "minecraft:coal",
 	"category": "hostiles",
-	"sortnum": 12,
+	"sortnum": 11,
 	"read_by_default": true,
 	"pages": [
 		{

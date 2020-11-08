@@ -2,7 +2,7 @@
 	"name": "Lava Monster",
 	"icon": "minecraft:fire_charge",
 	"category": "hostiles",
-	"sortnum": 13,
+	"sortnum": 12,
 	"read_by_default": true,
 	"pages": [
 		{

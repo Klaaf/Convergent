@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "mysticalworld:pelt",
+		  "title": "Silver Fox",
+		  "text": "This cute and mysterious animals can be tamed with apples, and bred with apples or chicken."
+		},
+		{
+		  "type": "entity",
+		  "name": "Silver Fox",
+		  "entity": "mysticalworld:silver_fox",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "While vicious chicken & rabbit killers, they become docile when tamed!"
 		}
 	]
 }

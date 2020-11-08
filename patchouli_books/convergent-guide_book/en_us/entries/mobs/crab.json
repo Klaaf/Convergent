@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "quark:crab_leg",
+		  "title": "Crab",
+		  "text": "Residents of the beach, they like to pinch you if you walk barefoot.$(br)Cooked crab legs are considered a delicacy. But if you can get their shell, you will be able to brew a new potion."
+		},
+		{
+		  "type": "entity",
+		  "name": "Crab",
+		  "entity": "quark:crab",
+		  "scale": 0.5,
+		  "offset": 0,
+		  "text": "Have you ever seen the fabled Giant Crab? It is said it could appear during a thunderstorm."
 		}
 	]
 }

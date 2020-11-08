@@ -6,8 +6,17 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "mysticalworld:antlers",
+		  "title": "Deer",
+		  "text": "Deer are a docile mix of does and stags.$(br)They can drop leather, or their antlers."
+		},
+		{
+		  "type": "entity",
+		  "name": "Deer",
+		  "entity": "mysticalworld:deer",
+		  "scale": 0.6,
+		  "offset": 0.4
 		}
 	]
 }

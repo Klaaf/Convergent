@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "quark:root_item",
+		  "title": "Toretoise",
+		  "text": "Spawning very rarely underground, these tortoise-like creatures grow various minerals on their back. You can mine them with a pickaxe, and regrow them randomly by feeding the toretoise Cave Roots. With enough thinking, this makes automatic mineral farms possible."
+		},
+		{
+		  "type": "entity",
+		  "name": "Toretoise",
+		  "entity": "quark:toretoise",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "Good luck bringing them to the surface though. Maybe with a minecart?"
 		}
 	]
 }

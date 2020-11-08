@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:flint",
+		  "title": "Kiwi",
+		  "text": "Kiwis don't drop anything, but they sometimes dig in the ground to get some useful resources."
+		},
+		{
+		  "type": "entity",
+		  "name": "Kiwi",
+		  "entity": "kiwibirds:kiwi_bird",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "Kiwis also lay eggs the same way turtles do."
 		}
 	]
 }

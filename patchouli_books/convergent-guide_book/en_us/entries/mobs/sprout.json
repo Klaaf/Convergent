@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "mysticalworld:aubergine",
+		  "title": "Sprout",
+		  "text": "Sprouts drop different types of vegetables depending on their color."
+		},
+		{
+		  "type": "entity",
+		  "name": "Sprout",
+		  "entity": "mysticalworld:sprout",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "These adorable root vegetables like to wander the forests and sometimes dance!"
 		}
 	]
 }

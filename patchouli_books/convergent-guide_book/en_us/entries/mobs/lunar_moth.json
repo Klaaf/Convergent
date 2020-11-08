@@ -6,8 +6,17 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "druidcraft:turquoise_lunar_moth_jar",
+		  "title": "Lunar Moth",
+		  "text": "These beautiful luminous insects spawn in various colors. You can catch them with a bottle to decorate your house, or you can keep them in a farm to harvest the glowstone powder they sometimes shed."
+		},
+		{
+		  "type": "entity",
+		  "name": "Lunar Moth",
+		  "entity": "druidcraft:lunar_moth",
+		  "scale": 0.6,
+		  "offset": -0.3
 		}
 	]
 }

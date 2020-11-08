@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "quark:diamond_heart",
+		  "title": "Stoneling",
+		  "text": "Rarely found in the deepest caves, Stonelings like to carry valuable items above their heads. The rarest item you can get from them is the Heart of Diamond, which is used to craft a Pickarang, or to summon a tamed Stoneling from stone. Tamed Stonelings will follow you everywhere and carry up to a stack of a given item."
+		},
+		{
+		  "type": "entity",
+		  "name": "Stoneling",
+		  "entity": "quark:stoneling",
+		  "scale": 0.7,
+		  "offset": 0,
+		  "text": "Stoneling are easily frightened! Try to approach them carefully, or they will run and vanish."
 		}
 	]
 }

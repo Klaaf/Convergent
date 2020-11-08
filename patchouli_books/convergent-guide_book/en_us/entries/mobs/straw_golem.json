@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:hay_block",
+		  "title": "Straw Golem",
+		  "text": "A hay block and a carved pumpkin, that's all it takes to summon these adorable little helpers. They will harvest your crops and drop them into the closest inventory."
+		},
+		{
+		  "type": "entity",
+		  "name": "Straw Golem",
+		  "entity": "strawgolem:strawgolem",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "Straw Golems are very frail and will live only for a limited time. They don't like rain, too."
 		}
 	]
 }

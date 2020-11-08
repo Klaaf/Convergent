@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "endergetic:booflo_hide",
+		  "title": "Booflo",
+		  "text": "These inhabitants of Poise Forests in the End are often found hopping and floating around hunting Puff Bugs.$(br)Booflo can be bred with Poise Clusters or tamed with Bolloom Fruits. Once tamed, you can ride these floating creatures among the End Islands."
+		},
+		{
+		  "type": "entity",
+		  "name": "Booflo",
+		  "entity": "endergetic:booflo",
+		  "scale": 0.4,
+		  "offset": 0,
+		  "text": "You might want to take your distance while they eat, as they can become agressive..."
 		}
 	]
 }

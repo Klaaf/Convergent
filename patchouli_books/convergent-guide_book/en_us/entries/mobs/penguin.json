@@ -6,8 +6,17 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:cod",
+		  "title": "Penguin",
+		  "text": "Penguins are hostile creatures than can freeze you to death if you try to attack them. Keep your distance and let them be."
+		},
+		{
+		  "type": "entity",
+		  "name": "Penguin",
+		  "entity": "waddles:adelie_penguin",
+		  "scale": 0.8,
+		  "offset": 0
 		}
 	]
 }

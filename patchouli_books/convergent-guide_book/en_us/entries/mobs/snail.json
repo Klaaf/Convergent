@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "autumnity:snail_slime",
+		  "title": "Snail",
+		  "text": "Snails roam peacefully in maple forests and pumpkin patches. Feed them mushrooms and they'll leave a trail of slime behind them. When a baby snail grows into an adult, it drops a Shell Piece."
+		},
+		{
+		  "type": "entity",
+		  "name": "Snail",
+		  "entity": "autumnity:snail",
+		  "scale": 0.6,
+		  "offset": 0,
+		  "text": "Try naming your pet snail $(o)Nautilus$() or $(o)Snake$()!"
 		}
 	]
 }
