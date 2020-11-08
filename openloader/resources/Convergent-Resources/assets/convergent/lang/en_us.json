@@ -44,6 +44,11 @@
 "block.druidcraft.crate": "Expandable Crate",
 "bountiful.decree.botanist.name": "Botany",
 "block.decorative_blocks.brazier": "Iron Brazier",
-"entity.druidcraft.beetle":"Giant Beetle",
-"entity.mysticalworld.frog":"Smol Froggy"
+"entity.druidcraft.beetle": "Giant Beetle",
+"entity.mysticalworld.frog": "Smol Froggy",
+"enchantment.charm.salvage.desc": "Drops the enchantments as a book when the item breaks",
+"enchantment.charm.magnetic.desc": "Mined blocks will go straight to your inventory",
+"enchantment.charm.homing.desc": "Emits a higher pitch when you get close to coveted ore",
+"enchantment.charm.curse_break.desc": "Removes any curse on your item",
+"enchantment.charm.salvage.desc": "Repairs your item at the cost of hunger"
 }
