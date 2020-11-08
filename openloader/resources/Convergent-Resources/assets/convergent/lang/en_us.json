@@ -43,5 +43,7 @@
 "block.quark.yellow_candle.desc": "Abundance",
 "block.druidcraft.crate": "Expandable Crate",
 "bountiful.decree.botanist.name": "Botany",
-"block.decorative_blocks.brazier": "Iron Brazier"
+"block.decorative_blocks.brazier": "Iron Brazier",
+"entity.druidcraft.beetle":"Giant Beetle",
+"entity.mysticalworld.frog":"Smol Froggy"
 }
