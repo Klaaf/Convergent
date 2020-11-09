@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "minecraft:iron_axe",
+			"title": "Knives",
+			"text": "Axes are very powerful but slow. They now benefit from the same enchantments as the sword, and are definitely a weapon of choice."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_axe"
 		}
 	]
 }

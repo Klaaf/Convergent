@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "minecraft:trident",
+			"title": "Knives",
+			"text": "Tridents are now craftable and repairable. They have extended reach like spears, and are revamped in quite a few ways. Try them out!"
+		},
+		{
+			"type": "crafting",
+			"recipe": "upgrade_aquatic:trident"
 		}
 	]
 }

@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "minecraft:iron_sword",
+			"title": "Knives",
+			"text": "Swords have not changed a lot. They have medium reach, and most of all you can block incoming damage with them"
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:iron_sword"
 		}
 	]
 }

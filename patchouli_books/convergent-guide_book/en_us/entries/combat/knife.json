@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "mysticalworld:iron_knife",
+			"title": "Knives",
+			"text": "Knives, despite their short reach and low damage, are the fastest weapons. Killing with a knife will guarantee some secondary drops, and they can be enchanted with unique powers."
+		},
+		{
+			"type": "crafting",
+			"recipe": "mysticalworld:iron_knife_from_ingots_iron"
 		}
 	]
 }

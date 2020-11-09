@@ -7,7 +7,8 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"title": "Combat Mechanics",
+			"text": "Some important changes have been made to combat. Mainly, your attack reach has been reduced, making you more vulnerable when fighting mobs. In addition to a whole new arsenal, you also have useful movements abilities like dodging (L-alt) or wall-climbing (L-shift) that can help perfect your combat skills... Or run away."
 		}
 	]
 }

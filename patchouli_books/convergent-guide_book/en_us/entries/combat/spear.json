@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "mysticalworld:iron_spear",
+			"title": "Knives",
+			"text": "Spears are a bit faster than swords, albeit not as powerful. Their main advantage is the extended reach, making combat a lot safer."
+		},
+		{
+			"type": "crafting",
+			"recipe": "mysticalworld:iron_spear"
 		}
 	]
 }
