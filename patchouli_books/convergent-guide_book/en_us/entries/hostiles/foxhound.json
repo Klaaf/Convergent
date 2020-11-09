@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:coal",
+		  "title": "Foxhound",
+		  "text": "Foxhounds are fierce dog-like creatures that roam the Nether. They don't fear lava, and their bites will set you on fire. You can tame a Foxhound with Coal if you're feeling brave. It will then follow you every where as a loyal protector."
+		},
+		{
+		  "type": "entity",
+		  "name": "Foxhound",
+		  "entity": "quark:foxhound",
+		  "scale": 0.6,
+		  "offset": 0,
+		  "text": "A tamed Foxhound will regularly sleep on hot blocks. If it is a Furnace, its rate of burning will be accelerated."
 		}
 	]
 }

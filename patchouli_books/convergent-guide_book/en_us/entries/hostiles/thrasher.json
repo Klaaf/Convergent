@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "upgrade_aquatic:thrasher_tooth",
+		  "title": "Thrasher",
+		  "text": "Thrashers are powerful, shark-like creatures, that swim at the bottom of ocean trenches. Should you encounter a Thrasher, just close your eyes and calm down waiting for your death"
+		},
+		{
+		  "type": "entity",
+		  "name": "Thrasher",
+		  "entity": "upgrade_aquatic:thrasher",
+		  "scale": 0.6,
+		  "offset": -0.2,
+		  "text": "Thrashers will drop their Teeth if you kill them. They allow the crafting of Tridents."
 		}
 	]
 }

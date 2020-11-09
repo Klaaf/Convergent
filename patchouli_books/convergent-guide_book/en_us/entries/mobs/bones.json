@@ -1,0 +1,22 @@
+{
+	"name": "Skeleton Animals",
+	"icon": "minecraft:bone",
+	"category": "mobs",
+	"sortnum": 11,
+	"read_by_default": true,
+	"pages": [
+		{
+		  "type": "text",
+		  "title": "Skeleton Animals",
+		  "text": "These undead animals thrive in the nether. They work nearly the same as their overworld counterparts. Nearly."
+		},
+		{
+		  "type": "entity",
+		  "name": "Skeleton Animals",
+		  "entity": "bones:skeleton_chicken",
+		  "scale": 0.8,
+		  "offset": 0.0,
+		  "text": "Can you imagine a farm made of skeleton animals?"
+		}
+	]
+}

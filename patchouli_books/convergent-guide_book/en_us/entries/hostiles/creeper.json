@@ -1,13 +1,23 @@
 {
-	"name": "Creeper",
+	"name": "Creepie",
 	"icon": "savageandravage:creeper_spores",
 	"category": "hostiles",
 	"sortnum": 3,
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "savageandravage:creeper_spores",
+		  "title": "Creepie",
+		  "text": "Creepers won't destroy your house anymore, but when exploding they will unleash a swarm of vicious Creepies that will go after you. It is said that acquiring Creeper Spores could help you build blast-resistant armor and blocks, or summon you own army of Creepies."
+		},
+		{
+		  "type": "entity",
+		  "name": "Creepie",
+		  "entity": "savageandravage:creepie",
+		  "scale": 1.0,
+		  "offset": -0.4,
+		  "text": "How to gather those spores, however, remains unclear. Find it yourself!"
 		}
 	]
 }

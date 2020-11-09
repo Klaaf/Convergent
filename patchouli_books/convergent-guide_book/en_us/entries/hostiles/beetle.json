@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "druidcraft:chitin",
+		  "title": "Giant Beetle",
+		  "text": "Those agressive and territorial giant insects will lunge at you when attacking. They are protected by a very resistant chitin carapace. Giant Beetles can be tamed with Golden Apples"
+		},
+		{
+		  "type": "entity",
+		  "name": "Giant Beetle",
+		  "entity": "druidcraft:beetle",
+		  "scale": 0.6,
+		  "offset": 0,
+		  "text": "A tamed Beetle can be mounted"
 		}
 	]
 }

@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:totem_of_undying",
+		  "title": "Illusioner",
+		  "text": "Illusioners are evil wizards, thought to have disappeared a long time ago. But their existence now is irrefutable, and it is said they practice rituals in dark forests and dungeons in the Outerlands."
+		},
+		{
+		  "type": "entity",
+		  "name": "Illusioner",
+		  "entity": "minecraft:illusioner",
+		  "scale": 1.0,
+		  "offset": 0.0,
+		  "text": "Who knows what magical artifacts they hold?"
 		}
 	]
 }

@@ -1,13 +1,22 @@
 {
-	"name": "Skeleton Pillager",
+	"name": "Skeleton Villager",
 	"icon": "minecraft:bone",
 	"category": "hostiles",
 	"sortnum": 5,
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:bone",
+		  "title": "Skeleton Villager",
+		  "text": "The skeleton villagers seem inoffensive at first, but they will not hesitate to grab their crossbow when you are in sight. They benefit from both the revamped Pillager AI and the Undead mechanics, making them very dangerous mobs to encounter."
+		},
+		{
+		  "type": "entity",
+		  "name": "Skeleton Villager",
+		  "entity": "savageandravage:skeleton_villager",
+		  "scale": 1.0,
+		  "offset": 0.0
 		}
 	]
 }

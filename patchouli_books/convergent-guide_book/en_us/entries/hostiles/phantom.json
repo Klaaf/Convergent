@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:phantom_membrane",
+		  "title": "Phantom",
+		  "text": "Phantoms are a manifestation of insomnia. It is said they thrive in the End, making the exploration of Outter Islands a very dangerous task. Phantoms drop a Membrane on death, which can be used to repair Elytras."
+		},
+		{
+		  "type": "entity",
+		  "name": "Phantom",
+		  "entity": "minecraft:phantom",
+		  "scale": 0.5,
+		  "offset": -0.3,
+		  "text": "Using a potion of Insomnia on a Phantom will transform it into a Flare."
 		}
 	]
 }

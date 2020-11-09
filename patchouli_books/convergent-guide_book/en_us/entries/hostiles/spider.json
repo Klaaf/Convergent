@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:spider_eye",
+		  "title": "Spider",
+		  "text": "Spiders are able to walk vertically and on ceilings. They will find their path to you, sometimes in the most unexpected ways. Careful when they lunge at you! Don't forget that your attack reach is reduced..."
+		},
+		{
+		  "type": "entity",
+		  "name": "Spider",
+		  "entity": "minecraft:spider",
+		  "scale": 0.6,
+		  "offset": 0,
+		  "text": "Spiders will spin cobwebs if it is dark enough for them."
 		}
 	]
 }

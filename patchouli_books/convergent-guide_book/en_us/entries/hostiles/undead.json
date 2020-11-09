@@ -6,10 +6,21 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "entity",
-			"entity": "minecraft:zombie",
-			"name": "Undead Mobs",
-			"text": "Undead Mobs (zombie and skeleton variants) have received significant changes in Convergent. "
+		  "type": "text",
+		  "title": "The Undead",
+		  "text": "Undead mobs (zombie and skeleton variants) will give you a hard time in here. They are nearly invincible unless you know how to actually fight them.$(br)To be able to damage an Undead mob, one must break its unholy aura. This will leave a short window of time to hurt it before the aura resplenishes.$(br)You will find more information in the following pages."
+		},
+		{
+		  "type": "entity",
+		  "name": "The Undead",
+		  "entity": "minecraft:wither_skeleton",
+		  "scale": 1.0,
+		  "offset": 0.0,
+		  "text": "Some undead mobs don't even fear fire..."
+		},
+		{
+		  "type": "text",
+		  "text": "Here are a few ways to desecrate the Undead:$(li)Fire (Fire Stick, Fire Arrow, Flint & Steel...)$(li)Silver or Amethyst Tools$(li)Smite or Magic Edge enchantments$(li)Consecration or Instant Health potions$(li)Phantasmal Arrows, Flares, and more..."
 		}
 	]
 }

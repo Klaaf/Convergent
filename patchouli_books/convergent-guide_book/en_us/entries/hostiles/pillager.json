@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:crossbow",
+		  "title": "Pillager",
+		  "text": "These outlaws are more dangerous now that they have ever been. Fighting them in their Outpost will prove to be an overwhelming experience. But you'll be rewarded with powerful magic arrows or even the Hide from their Ravagers...$(br)Pillagers seem to be particularly vindictive if you go near the Outerlands."
+		},
+		{
+		  "type": "entity",
+		  "name": "Pillager",
+		  "entity": "minecraft:pillager",
+		  "scale": 1.0,
+		  "offset": 0,
+		  "text": "Perhaps they are hiding something..."
 		}
 	]
 }

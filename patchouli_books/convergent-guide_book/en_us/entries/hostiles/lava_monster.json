@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "minecraft:fire_charge",
+		  "title": "Lava Monster",
+		  "text": "Lava Monsters are entities that occasionally emerge from lava, targeting you with salves of fire balls. They can even follow you outside of lava, setting fire to every block they walk on."
+		},
+		{
+		  "type": "entity",
+		  "name": "Lava Monster",
+		  "entity": "lava_monster:lava_monster",
+		  "scale": 0.8,
+		  "offset": 0,
+		  "text": "Deafeated Lava Monsters drop Fire Charges"
 		}
 	]
 }

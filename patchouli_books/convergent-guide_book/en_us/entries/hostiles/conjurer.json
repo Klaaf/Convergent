@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "conjurer_illager:conjurer_hat",
+		  "title": "Conjurer",
+		  "text": "The Conjurer is a mini-boss that resides in Theaters deep in the forest. He uses magic to summon deadly Killer Rabbits. The Conjurer's Hat, once dropped, gives you more health, and it can also prevent unwanted raids in villages..."
+		},
+		{
+		  "type": "entity",
+		  "name": "Conjurer",
+		  "entity": "conjurer_illager:conjurer",
+		  "scale": 0.9,
+		  "offset": 0.2,
+		  "text": "The Conjurer's Hat is mostly very stylish, and its rubbon can be dyed."
 		}
 	]
 }

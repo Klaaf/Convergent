@@ -2,7 +2,7 @@
 	"name": "Lava Cat",
 	"icon": "minecraft:lava_bucket",
 	"category": "mobs",
-	"sortnum": 11,
+	"sortnum": 17,
 	"read_by_default": true,
 	"pages": [
 		{

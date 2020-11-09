@@ -6,8 +6,18 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+		  "type": "spotlight",
+		  "item": "druidcraft:blue_soulfire",
+		  "title": "Dreadfish",
+		  "text": "This agressive skeletal fish spawns underground in cold biomes. It may look harmless but will give you a hard time if you were to encounter it. The Dreadfish drops a Soulfire, a magical colored spark that works great for decoration."
+		},
+		{
+		  "type": "entity",
+		  "name": "Dreadfish",
+		  "entity": "druidcraft:dreadfish",
+		  "scale": 0.7,
+		  "offset": -0.3,
+		  "text": "Dreadfish can also be tamed with Prismarine Crystals, and dyed."
 		}
 	]
 }
