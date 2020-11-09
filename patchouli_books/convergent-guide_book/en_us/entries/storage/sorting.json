@@ -6,8 +6,22 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "quark:pipe",
+			"title": "Pipe",
+			"text": "Pipes are a quick and easy way to get your items from one point to another. You'll still need hopper though!"
+		},
+		{
+			"type": "spotlight",
+			"item": "essentials:candle_lilypad",
+			"title": "Essentials",
+			"text": "Essentials provides quite a few smart and inexpensive ways to sort, filter and organize your stuff. Look for example at the Sorting Hopper or the Hopper Filter. It evens add a Brazier you can fill with lava to safely get rid of your items."
+		},
+		{
+			"type": "spotlight",
+			"item": "storagenetwork:request",
+			"title": "Storage Network",
+			"text": "Simple Storage Network is the ultimate solution to link together all your containers. It needs a bit of progress in Create, but you will have instant access to any of your items, whether it is through the connected Storage Inventory or the wireless Crafting Remote. Don't forget to include 1 Storage Network Root in your network for it to work!"
 		}
 	]
 }

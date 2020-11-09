@@ -6,8 +6,40 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "druidcraft:travel_pack",
+			"title": "Travel Pack",
+			"text": "Accessible early-game, the Travel Pack has a limited capacity of 6 items but it can hold your bedroll, and you can have as many packs as you want."
+		},
+		{
+			"type": "spotlight",
+			"item": "charm:crate_open_oak",
+			"title": "Crate",
+			"text": "Also very affordable, crates allow the transportation of 9 items, even though they have to be placed down."
+		},
+		{
+			"type": "spotlight",
+			"item": "quark:backpack",
+			"title": "Backpack",
+			"text": "Whether it is through trade, or Outpost raiding, finding a Ravager Hide will enable you to make a Backpack. Finally some reasonable inventory space!"
+		},
+		{
+			"type": "spotlight",
+			"item": "enderstorage:ender_pouch",
+			"title": "Ender Pouch",
+			"text": "After you've been to the Nether, you will have access to the Ender Pouch. Link it to one of your Ender Chests by shift-R-clicking!"
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:shulker_box",
+			"title": "Shulker Box",
+			"text": "Shulker boxes can now be worn like backpacks, or R-cliked in the air. You can also put your items directly in them with R-click."
+		},
+		{
+			"type": "spotlight",
+			"item": "dankstorage:dank_1",
+			"title": "Dank Storage",
+			"text": "Crafted from a Shulker box, the Dank is probably the best you can have. They even allow to use items and place blocks stored inside, making them the ultimate multi-tool/block-palette."
 		}
 	]
 }

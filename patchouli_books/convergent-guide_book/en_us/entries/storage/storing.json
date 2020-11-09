@@ -6,8 +6,28 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "druidcraft:crate",
+			"title": "Expandable Crate",
+			"text": "Perfect if you just want to toss your items in a big box, Expandable Crates can be stacked up to a a 2x2 multi-block storage."
+		},
+		{
+			"type": "spotlight",
+			"item": "essentials:slotted_chest",
+			"title": "Slotted Chest",
+			"text": "If you like to keep things very organized, the slotted chest is a 1-block solution that has the capacity of a double-chest, but requires you to sort your items so they are all in the right place and stay in the right place. Not for hoarders!"
+		},
+		{
+			"type": "spotlight",
+			"item": "enderstorage:ender_chest",
+			"title": "Ender Storage",
+			"text": "Color-coded, linked inventories. Instant item transportation and organized storage. And you can lock the chest with a diamond!"
+		},
+		{
+			"type": "spotlight",
+			"item": "dankstorage:dank_1",
+			"title": "Dank Storage",
+			"text": "Late-game, upgradable multi-use storage. Stack items well above 64. The ultimate container."
 		}
 	]
 }
