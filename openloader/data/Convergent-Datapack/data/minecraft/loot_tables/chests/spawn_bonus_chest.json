@@ -19,6 +19,21 @@
         }
       ]
     },
+	{
+      "rolls": 1,
+      "entries": [
+        {
+			"type": "minecraft:item",
+			"functions": [
+				{
+				  "function": "minecraft:set_nbt",
+				  "tag": "{\"patchouli:book\": \"patchouli:convergent_handbook\"}"
+				}
+			],
+			"name": "patchouli:guide_book"
+		}
+      ]
+    },
     {
       "rolls": 1,
       "entries": [

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:coals"
+    },
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+	"item": "patchouli:guide_book",
+    "nbt": {
+    "patchouli:book": "patchouli:convergent_handbook"
+    },
+    "count": 1
+  }
+}

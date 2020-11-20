@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:story/root",
+  "display": {
+    "icon": {
+		"item": "patchouli:guide_book",
+		"nbt": "{\"patchouli:book\": \"patchouli:convergent_handbook\"}"
+    },
+    "title": "Convergent",
+    "description": "Craft the Convergent Handbook",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_handbook": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+			"item": "patchouli:guide_book",
+			"nbt": "{\"patchouli:book\": \"patchouli:convergent_handbook\"}"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "craft_handbook"
+    ]
+  ]
+}
