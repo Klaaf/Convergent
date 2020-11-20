@@ -7,7 +7,12 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "During your journey you will often stumble upon tall towers spiraling with Dark Prismarine. It is highly recommended to try and climb them. Not only do they offer a great view to ponder on your next destination, they also offer a bit of loot, and most importantly you will find a $(l:exploration/waystones)Waystone$(), marking an important step of your travels."
+		},
+		{
+			"type": "image",
+			"images": ["convergent:images/tower.png"],
+			"border": true
 		}
 	]
 }

@@ -7,7 +7,17 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "New movement abilities are granted to you traveler, allowing you to travel with more ease. You can now dash forward or dodge, and you can slide down walls or climb them."
+		},
+		{
+			"type": "text",
+			"title": "Dodging / Dashing",
+			"text": "From the start you are able to dash forward or dodge in any direction by pressing L-alt. This will consume a little bit of hunger each time and will stop working when your hunger bar gets too low. Whether you want to travel faster or run from enemies, mastering that trick will come handy."
+		},
+		{
+			"type": "text",
+			"title": "Wall-slide / Wall-jump",
+			"text": "Have you ever wanted to climb like a professional? Facing a wall while in the air, press L-shift to slide down that wall for a brief moment. Releasing L-shift makes you jump from the wall. With a bit of practice, you'll be able to directly jump over 3-blocks tall walls by jumping and immediately tapping L-shift forward."
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Cooking Changes",
+	"name": "Cooking",
 	"icon": "farmersdelight:chicken_sandwich",
 	"category": "food",
 	"sortnum": 4,
@@ -7,7 +7,30 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "Just throw out your overcooked steaks. There are far better options in Convergent. Get yourself a Cutting Board, a Stove and a Cooking Pot, and you will be able to cook food that is far more nutritious and grants interesting, long-lasting effects for your health. Try to make every recipe available, and enjoy cooking!"
+		},
+		{
+			"type": "spotlight",
+			"item": "farmersdelight:cutting_board",
+			"text": "The Cutting Board allows you to slice vegetables and meat into smaller, more economical portions that you can use in recipes. Depending on the tool you use, you can also get bark and stripped wood from logs, or uncraft items into raw components."
+		},
+		{
+			"type": "spotlight",
+			"item": "farmersdelight:stove",
+			"text": "The Stove can cook up to 6 food items at the same time, the same way a Campfire does. You can also place a Cooking Pot on top of it, and you have your first kitchen."
+		},
+		{
+			"type": "spotlight",
+			"item": "farmersdelight:cooking_pot",
+			"text": "The Cooking Pot is essential for cooking advanced recipes. Just place it on any hot source block, like a Stove, and it will emit bubbly particles, inviting you to cook your first recipe. To do so, place ingredients in any order. As soon as the required ingredients for a given recipe are there, it will start cooking right away."
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:bread",
+			"title": "Vanilla Changes",
+			"text": "Some recipes you knew have been modified.$(br)The Cooking Pot is now required to cook Stews of any sort.$(br)Bread, cakes and pasta can only be made from Dough, which is crafted by combining Wheat Flour and Water. To obtain Flour, one must process Wheat through a Mill."
 		}
+		
+		
 	]
 }

@@ -7,7 +7,13 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "Seasons play an important part in your farms, as they affect the growth of all crops. Thereby, in theory you will not be able to cultivate crops if they are out of season.$(br2)Seasons are divided in 3 sub-seasons, each lasting 8 days. If you happen to be located in a tropical zone, the season will be either Dry season or Wet season, and only summer crops will be able to grow."
+		},
+		{
+			"type":"image",
+			"images": ["convergent:images/spring.png","convergent:images/summer.png","convergent:images/autumn.png","convergent:images/winter.png"],
+			"border": true,
+			"text": "Changing seasons"
 		}
 	]
 }

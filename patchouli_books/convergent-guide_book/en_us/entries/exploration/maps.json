@@ -6,8 +6,16 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "minecraft:filled_map",
+			"title": "Maps",
+			"text": "As usual, you can use Banners to mark spots on your maps. In addition to the Explorer Maps that Cartographer Villagers sell, you can obtain Pathfinder Maps that will help you find the rarest biomes (even modded ones). Wandering Merchants will also offer new Explorer Maps pointing to different structures."
+		},
+		{
+			"type": "crafting",
+			"recipe": "minecraft:map",
+			"title": "Maps",
+			"text": "The recipe for Maps havs been buffed, encouraging you to craft more of them."
 		}
 	]
 }

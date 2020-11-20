@@ -6,8 +6,15 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "waystones:waystone",
+			"title": "Waystones",
+			"text": "Waystone allow for interdimensional travel. They seem to be made with the same magic as Runestones, but are more powerful.$(br)You will find Waystones on top of $(l:exploration/towers)Towers$() or sometimes in Villages. You will be able to activate them, but not to bring them with you, as they are imbued with strong magic making them indestructible."
+		},
+		{
+			"type": "crafting",
+			"recipe": "waystones:waystone",
+			"recipe2": "waystones:warp_stone"
 		}
 	]
 }

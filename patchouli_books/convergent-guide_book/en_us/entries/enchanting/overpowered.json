@@ -7,7 +7,11 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "You have mastered $(l:enchanting/matrix)matrix enchanting$() and $(l:enchanting/influence)candle influence$(). Now you want to take it further. Here are a few things you should know:$(br2)Try combining your tool with a golden tool of the same type to reduce the cost of enchanting. This way you will never be faced with the dreaded 'Too Expensive' message."
+		},
+		{
+			"type": "text",
+			"text": "There are some ways to obtain enchantments beyond their supposed maximum level. The first way is to obtain magical Tomes. You can find them in Dungeons and Strongholds.$(br)But perhaps you want to obtain enchantments of a level even higher. Then, travel as far as possible, to the $(l:exploration/outerlands)Outerlands$(). Strange underground structures called Vaults are to be found under Stone Circles, and they are said to contain legendary weapons, the power of which is inconceivable."
 		}
 	]
 }

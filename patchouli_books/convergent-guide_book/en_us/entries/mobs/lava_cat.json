@@ -15,7 +15,7 @@
 		  "name": "Lava Cat",
 		  "entity": "mysticalworld:lava_cat",
 		  "scale": 0.5,
-		  "offset": -0.3,
+		  "offset": -0.1,
 		  "text": "Likewise, a trip into lava will revert them."
 		}
 	]

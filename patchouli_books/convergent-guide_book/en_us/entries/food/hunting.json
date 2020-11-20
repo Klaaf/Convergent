@@ -7,7 +7,12 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "Hunting wild animals proves to be a little harder here as the herds tend to flee when one individual is being attacked.$(br)As usual, setting up a farm early-game is highly beneficial to your progression. Don't forget you can automate things even more easily with items such as the Feeding Trough, the Iron Grate, the Guardian Spine... Animals also grant more secondary drops if killed with a Knife."
+		},
+		{
+			"type":"image",
+			"images": ["convergent:images/cows.png"],
+			"border": true
 		}
 	]
 }

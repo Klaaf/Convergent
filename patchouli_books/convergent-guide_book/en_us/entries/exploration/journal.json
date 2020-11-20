@@ -6,8 +6,14 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "strange:travel_journal",
+			"text": "The Travel Journal is probably one of the most important items for your explorations. You can record up to 30 locations of your choice and travel back to them easily. If you have a compass or a blank map in your inventory, you can redirect them to the chosen location by clicking the icon on the upper-right corner of your Travel Journal."
+		},
+		{
+			"type": "crafting",
+			"recipe": "strange:crafting/travel_journal",
+			"text": "A Travel Journal will be available from the start if you enable the Bonus Chest at spawn."
 		}
 	]
 }

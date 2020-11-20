@@ -16,7 +16,7 @@
 		  "name": "Skeleton Villager",
 		  "entity": "savageandravage:skeleton_villager",
 		  "scale": 1.0,
-		  "offset": 0.0
+		  "offset": 0.1
 		}
 	]
 }

@@ -13,7 +13,7 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "mysticalworld:iron_knife_from_ingots_iron"
+			"recipe": "minecraft:iron_knife_from_ingots_iron"
 		}
 	]
 }

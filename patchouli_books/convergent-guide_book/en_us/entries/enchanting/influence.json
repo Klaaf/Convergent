@@ -1,5 +1,5 @@
 {
-	"name": "Enchanting Candles influence",
+	"name": "Candle influence",
 	"icon": "quark:yellow_candle",
 	"category": "enchanting",
 	"sortnum": 2,
@@ -7,7 +7,20 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "If you wish to have even more control over the enchantment pieces you are getting, use Enchanting Candles to get luck on your side and influence the outcome. Each candle color brings specific influences to the pieces you are generating (modded enchantments included).$(br)The way it works is quite mysterious, the only information you have are the strange inscriptions that accompany each colored candle:"
+		}, 
+		{
+			"type": "text",
+			"text": "$(br2)$(l)$(0)Radiance$(), the light that overcomes darkness$(br)$(l)$(#F9801D)Determination$(), the will to surpass oneself$(br)$(l)$(#C74EBD)Vigor$(), the interior strenght$(br)$(l)$(#3AB3DA)Wind$(), the immaterial and weightless$(br)$(l)$(#FED83D)Abundance$(), the way to riches$(br)$(l)$(#80C71F)Parasite$(), the endless consumption$(br)$(l)$(#F38BAA)Oddity$(), the indescribable$(br)$(l)$(#474F52)Aegis$(), the impervious warrior"
+		},
+		{
+			"type": "text",
+			"text": "$(br2)$(l)$(#9D9D97)Inertia$(), the perennial wisdom$(br)$(l)$(#169C9C)Litany$(), the cycle beyond life$(br)$(l)$(#8932B8)Authority$(), the iron fist$(br)$(l)$(#3C44AA)Depth$(), the unknown that lurks below$(br)$(l)$(#835432)Potency$(), the sheer force$(br)$(l)$(#5E7C16)Serration$(), the stinging pugnacity$(br)$(l)$(#B02E26)Conflagration$(), the blazing fire$(br)$(l)$(#1D1D21)Dusk$(), the dark shroud"
+		},
+		{
+			"type": "image",
+			"images": ["convergent:images/candles.png"],
+			"border": true
 		}
 	]
 }

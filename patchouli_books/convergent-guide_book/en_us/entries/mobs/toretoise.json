@@ -16,7 +16,7 @@
 		  "name": "Toretoise",
 		  "entity": "quark:toretoise",
 		  "scale": 0.8,
-		  "offset": 0,
+		  "offset": -0.3,
 		  "text": "Good luck bringing them to the surface though. Maybe with a minecart?"
 		}
 	]

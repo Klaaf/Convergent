@@ -6,8 +6,16 @@
 	"read_by_default": true,
 	"pages": [
 		{
-			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"type": "spotlight",
+			"item": "strange:runestone_0",
+			"title": "Stone Circles",
+			"text": "Stone Circles are ancient structures made of pillars on top of which sit Runestones. Throwing an enderpearl into those Runestones will teleport you to a point of interest. Who knows where you will end up?$(br)Stone Circles in the $(l:exploration/outerlands)Outerlands$() seem to gather a lot of interest from Illagers and Pillagers, who will often leave a trail behind them..."
+		},
+		{
+			"type": "image",
+			"images":["convergent:images/circles.png"],
+			"border": true,
+			"text": "Runestones are only obtainable with the Silk Touch enchantment."
 		}
 	]
 }

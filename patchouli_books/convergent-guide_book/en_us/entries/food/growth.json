@@ -7,7 +7,16 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "Although $(l:food/seasons)Seasons$() affect growth, there are some way to bypass their impact.$(br2)For instance, it is said that setting up a farm underground could be a good idea as the impact of seasons is greatly reduced under Y=40."
+		},
+		{
+			"type": "spotlight",
+			"item": "farmersdelight:rich_soil",
+			"text": "One of the most useful blocks you can get is the Rich Soil. To obtain it, craft some Compost then let it degrade over time on the ground (being placed near other compost blocks, mushrooms or rich soil will quicken the process). Crops cultivated on Rich Soil can not be trampled, and their growth will randomly be boosted, like with bone meal."
+		},
+		{
+			"type": "text",
+			"text": "$(br)Other blocks can boost the growth of your crops.$(br2)The Rotting Flesh block, if placed under your farmland, will accelerate growth. Be careful not to place it next to water though, as it could turn into dirt.$(br2)The Lamp of Growth can increase the growth not only of all plants but also baby animals."
 		}
 	]
 }

@@ -7,7 +7,13 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"title": "The Outerlands",
+			"text": "Few people have seen the Outerlands. At least, few have returned from this land of great treasures indeed, but a land plagued with dangerous monsters, Illusioners and Illagers. To enter the Outerlands, you must travel more than 100,000 blocks away from your spawn point. Both Pillagers and Villagers there seem to know something that you don't."
+		},
+		{
+			"type": "text",
+			"title": "The Outerlands",
+			"text": "It is said the greatest riches and the most powerful magic are to be found somewhere in the Outerlands, below the ground. You should find your way somehow to a $(l:exploration/stone_circles)Stone Circle$()."
 		}
 	]
 }

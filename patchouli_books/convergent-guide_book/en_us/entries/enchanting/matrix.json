@@ -7,7 +7,12 @@
 	"pages": [
 		{
 			"type": "text",
-			"text": "This is a test page and will need to be rewritten."
+			"text": "Enchanting mechanics are quite different in Convergent. You have more control over which enchantments you wish to add onto your tools, by arranging and combining puzzle-like pieces in the enchanting matrix. The more pieces you add, the more XP it will require. Lapis will stay in the enchanting table, and your tool will stay on the table too until you are happy with it."
+		},
+		{
+			"type": "image",
+			"images": ["convergent:images/matrix.png"],
+			"border": true
 		}
 	]
 }
