@@ -20,6 +20,9 @@ for color in colors {
 <tag:minecraft:leaves>.removeBlocks(<blockstate:minecraft:brown_mushroom_block>);
 <tag:minecraft:leaves>.removeBlocks(<blockstate:minecraft:red_mushroom_block>);
 
+// Swords
+<tag:forge:swords>.addItems([<item:minecraft:wooden_sword>,<item:minecraft:stone_sword>,<item:minecraft:iron_sword>,<item:minecraft:golden_sword>,<item:minecraft:diamond_sword>,<item:druidcraft:bone_sword>,<item:druidcraft:moonstone_sword>,<item:psi:psimetal_sword>]);
+
 // Knives
 <tag:farmersdelight:tools/knives>.addItems([<item:mysticalworld:iron_knife>, <item:mysticalworld:gold_knife>, <item:mysticalworld:diamond_knife>, <item:mysticalworld:wood_knife>, <item:mysticalworld:stone_knife>, <item:mysticalworld:silver_knife>, <item:mysticalworld:cactus_knife>, <item:mysticalworld:amethyst_knife>]);
 <tag:forge:tools/knives>.addItems([<item:mysticalworld:iron_knife>, <item:mysticalworld:gold_knife>, <item:mysticalworld:diamond_knife>, <item:mysticalworld:wood_knife>, <item:mysticalworld:stone_knife>, <item:mysticalworld:silver_knife>, <item:mysticalworld:cactus_knife>, <item:mysticalworld:amethyst_knife>]);

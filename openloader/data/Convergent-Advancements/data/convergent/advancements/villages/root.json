@@ -1,0 +1,20 @@
+{
+	"display": {
+		"icon": {
+			"item": "oak_door"
+		},
+		"title": "Villages & Pillages",
+		"description": "Big-nosed guys",
+		"background": "textures/block/oak_planks.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"villages": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "village"
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:andesite"
+        },
+        "title": "Mining",
+        "description": "Under the ground",
+		"background": "minecraft:textures/block/andesite.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "underground": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "location": {
+                    "y": {
+						"max": 55
+					}
+                }
+            }
+        }
+	},
+    "requirements": [
+		[
+        "underground"
+		]
+    ]
+}

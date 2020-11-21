@@ -1,0 +1,29 @@
+{
+    "display": {
+        "icon": {
+            "item": "druidcraft:bone_sword"
+        },
+        "title": "Combat",
+        "description": "The Path of the Warrior",
+        "background": "minecraft:textures/block/mossy_cobblestone.png",
+        "show_toast": false,
+        "announce_to_chat": false
+    },	
+    "criteria": {
+        "sword": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "forge:swords"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+		[
+        "sword"
+		]
+    ]
+}

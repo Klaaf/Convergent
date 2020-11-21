@@ -1,0 +1,36 @@
+{
+	"display": {
+		"icon": {
+			"item": "quark:feeding_trough"
+		},
+		"title": "Animals",
+		"description": "Friends everywhere!",
+		"background": "minecraft:textures/block/dirt.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"criteria": {
+		"tame": {
+			"trigger": "tame_animal"
+		},
+		"breed": {
+			"trigger": "bred_animals",
+			"conditions": {}
+		},
+		"kill": {
+			"trigger": "player_killed_entity",
+			"conditions": {
+				"entity": {
+					"type": "#convergent:animals"
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"tame",
+			"breed",
+			"kill"
+		]
+	]
+}
