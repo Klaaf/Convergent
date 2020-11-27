@@ -1,8 +1,6 @@
 
 #These settings only affects client
 [Client]
-	#Whether or not to hide the button for opening CosmeticArmorInventory
-	CosArmorGuiButton_Hidden = false
 	#The horizontal pixel distance from the origin point of player inventory gui
 	#Range: > -2147483648
 	CosArmorGuiButton_Left = 65
@@ -14,9 +12,11 @@
 	#The horizontal pixel distance from the origin point of player inventory gui
 	#Range: > -2147483648
 	CosArmorToggleButton_Left = 59
+	#Whether or not to add buttons to CurioSlots for toggling visibility for that slot
+	CosArmorToggleButton_Curios = true
+	#Whether or not to hide the button for opening CosmeticArmorInventory
+	CosArmorGuiButton_Hidden = false
 	#The vertical pixel distance from the origin point of player inventory gui
 	#Range: > -2147483648
 	CosArmorToggleButton_Top = 72
-	#Whether or not to add buttons to CurioSlots for toggling visibility for that slot
-	CosArmorToggleButton_Curios = true
 
