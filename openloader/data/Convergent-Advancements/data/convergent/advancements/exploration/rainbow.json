@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:rainbow_birch_sapling"
+        },
+        "title": {
+            "translate": "Rainbow All The Way"
+        },
+        "description": {
+            "translate": "Find a Rainbow Valley"
+        },
+        "frame": "goal",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "convergent:exploration/volcano",
+    "criteria": {
+        "rainbow_valley": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "biomesoplenty:rainbow_valley"
+            }
+        }
+    }
+}

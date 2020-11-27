@@ -1,7 +1,27 @@
 {
+	"display": {
+	  "icon": {
+		"item": "mysticalworld:amethyst"
+	  },
+	  "title": {
+		"translate": "advancement.mysticalworld.amethyst"
+	  },
+	  "description": {
+		"translate": "advancement.mysticalworld.amethyst.desc"
+	  },
+	  "frame": "goal"
+	},
+	"parent": "convergent:mining/silver",
 	"criteria": {
-		"a": {
-			"trigger": "impossible"
+	  "book": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+		  "items": [
+			{
+			  "item": "mysticalworld:amethyst"
+			}
+		  ]
 		}
+	  }
 	}
-}
+  }

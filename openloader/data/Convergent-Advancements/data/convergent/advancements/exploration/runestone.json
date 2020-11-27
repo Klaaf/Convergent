@@ -1,0 +1,35 @@
+{
+	"parent": "strange:find_stone_circle",
+	"display": {
+		"icon": {
+			"item": "strange:runestone_25"
+		},
+		"title": {
+			"translate": "Ancient Scavenger"
+		},
+		"description": {
+			"translate": "Steal a Runestone with silk touch"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"runestone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"tag": "strange:runestones"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"runestone"
+		]
+	]
+}

@@ -1,0 +1,27 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:spawner"
+      },
+      "title": "But How?",
+      "description": "Relocate a spawner",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "convergent:mining/quark_dungeon",
+    "criteria": {
+      "spawner": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "strange:totem_of_transferring",
+              "nbt" : "{state: {state: {Name: \"minecraft:spawner\"}}}"
+            }
+          ]
+        }
+      }
+    }
+}

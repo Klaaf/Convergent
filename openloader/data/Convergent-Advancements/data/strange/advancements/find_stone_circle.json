@@ -1,5 +1,5 @@
 {
-  "parent": "strange:root",
+  "parent": "minecraft:adventure/sleep_in_bed",
   "display": {
     "icon": {
       "item": "strange:runestone_0"

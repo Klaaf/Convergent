@@ -1,0 +1,31 @@
+{
+  "parent": "minecraft:adventure/sleep_in_bed",
+  "display": {
+    "icon": {
+      "item": "minecraft:mossy_stone_bricks"
+    },
+    "title": {
+      "translate": "dungeons_plus:advancements.adventure.find_tower.title"
+    },
+    "description": {
+      "translate": "dungeons_plus:advancements.adventure.find_tower.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "structure": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "feature": "dungeons_plus:tower"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "structure"
+    ]
+  ]
+}

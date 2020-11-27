@@ -1,5 +1,5 @@
 {
-  "parent": "strange:root",
+  "parent": "strange:find_stone_circle",
   "display": {
     "icon": {
       "item": "minecraft:stone_bricks"
@@ -23,7 +23,7 @@
         "feature": "strange:vaults",
         "position": {
           "x": {
-            "min": 15000000,
+            "min": 150000,
             "max": 30000000
           }
         }
@@ -35,7 +35,7 @@
         "feature": "strange:vaults",
         "position": {
           "x": {
-            "min": -15000000,
+            "min": -150000,
             "max": -30000000
           }
         }
@@ -47,7 +47,7 @@
         "feature": "strange:vaults",
         "position": {
           "z": {
-            "min": 15000000,
+            "min": 150000,
             "max": 30000000
           }
         }
@@ -59,7 +59,7 @@
         "feature": "strange:vaults",
         "position": {
           "z": {
-            "min": -15000000,
+            "min": -150000,
             "max": -30000000
           }
         }

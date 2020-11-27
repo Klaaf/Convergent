@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:origin_sapling"
+        },
+        "title": {
+            "translate": "The Good Old Days"
+        },
+        "description": {
+            "translate": "Discover Origin Hills"
+        },
+        "frame": "goal",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "convergent:exploration/rainbow",
+    "criteria": {
+        "origin": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "biomesoplenty:origin_hills"
+            }
+        }
+    }
+}

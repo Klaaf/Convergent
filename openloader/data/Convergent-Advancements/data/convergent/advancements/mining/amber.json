@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:mining/root",
+	"display": {
+		"icon": {
+			"item": "druidcraft:amber"
+		},
+		"title": {
+			"translate": "But Does It Have A Use?"
+		},
+		"description": {
+			"translate": "Mine Amber"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"amber": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "druidcraft:amber"
+					}
+				]
+			}
+		}
+	}
+}

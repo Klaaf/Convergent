@@ -1,0 +1,23 @@
+{
+    "display": {
+      "icon": {
+        "item": "enderstorage:ender_chest"
+      },
+      "title": "Interdimensional Storage",
+      "description": "Craft an Ender Chest",
+      "frame": "goal"
+    },
+    "parent": "convergent:mining/crystal",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "enderstorage:ender_chest"
+            }
+          ]
+        }
+      }
+    }
+  }

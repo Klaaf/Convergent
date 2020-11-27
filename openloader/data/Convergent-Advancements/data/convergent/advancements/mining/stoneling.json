@@ -1,0 +1,33 @@
+{
+    "parent": "convergent:mining/diamond_heart",
+    "display": {
+      "icon": {
+        "item": "minecraft:stone"
+      },
+      "title": {
+        "translate": "Friendly Stoners"
+      },
+      "description": {
+        "translate": "Summon a Stoneling"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "stoneling": {
+        "trigger": "minecraft:summoned_entity",
+        "conditions": {
+          "entity": {
+            "type": "quark:stoneling"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "stoneling"
+      ]
+    ]
+  }

@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:engineering/root",
+	"display": {
+		"icon": {
+			"item": "essentials:brazier"
+		},
+		"title": {
+			"translate": "Multi-Use Trashcan"
+		},
+		"description": {
+			"translate": "Craft a Brazier"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"diamond_heart": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "essentials:brazier"
+					}
+				]
+			}
+		}
+	}
+}

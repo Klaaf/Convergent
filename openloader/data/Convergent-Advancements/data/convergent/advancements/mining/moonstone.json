@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:mining/rockroot",
+	"display": {
+		"icon": {
+			"item": "druidcraft:moonstone"
+		},
+		"title": {
+			"translate": "Evolution Stone"
+		},
+		"description": {
+			"translate": "Mine Moonstone"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"moonstone": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "druidcraft:moonstone"
+					}
+				]
+			}
+		}
+	}
+}

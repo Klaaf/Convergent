@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:mining/amber",
+	"display": {
+		"icon": {
+			"item": "druidcraft:rockroot"
+		},
+		"title": {
+			"translate": "Stone Trees"
+		},
+		"description": {
+			"translate": "Mine Rockroot"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"rockroot": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "druidcraft:rockroot"
+					}
+				]
+			}
+		}
+	}
+}

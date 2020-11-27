@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:palm_sapling"
+        },
+        "title": {
+            "translate": "If You Like Piña Coladas"
+        },
+        "description": {
+            "translate": "Discover a Tropical Island"
+        },
+        "frame": "goal",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "convergent:exploration/ominous",
+    "criteria": {
+        "tropics": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "biomesoplenty:tropics"
+            }
+        }
+    }
+}

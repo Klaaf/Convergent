@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:turtle_helmet"
+        },
+        "title": {"translate":"Turtle Master"},
+        "description": {"translate":"Craft a Turtle Shell"},
+		"frame": "goal"
+    },
+    "parent": "convergent:animals/scute",	
+    "criteria": {
+        "turtle_helmet": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:turtle_helmet"
+                    }
+                ]
+            }
+        }
+    }
+}

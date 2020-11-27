@@ -1,0 +1,30 @@
+{
+	"display": {
+	  "icon": {
+		"item": "quark:blue_crystal"
+	  },
+	  "title": {
+		"translate": "Underground Wonders"
+	  },
+	  "description": {
+		"translate": "Mine a Crystal from a crystal cave"
+	  },
+	  "frame": "task",
+	  "show_toast": true,
+	  "announce_to_chat": true,
+	  "hidden": false
+	},
+	"parent": "convergent:mining/deep",
+	"criteria": {
+	  "requirement": {
+		"trigger": "minecraft:inventory_changed",
+		"conditions": {
+		  "items": [
+			{
+			  "tag": "quark:crystal"
+			}
+		  ]
+		}
+	  }
+	}
+  }

@@ -1,0 +1,30 @@
+{
+	"parent": "create:polished_rose_quartz",
+	"display": {
+		"icon": {
+			"item": "storagenetwork:master"
+		},
+		"title": {
+			"translate": "The Core of Networking"
+		},
+		"description": {
+			"translate": "Craft a Storage Root"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"master": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "storagenetwork:master"
+					}
+				]
+			}
+		}
+	}
+}

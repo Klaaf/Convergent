@@ -1,0 +1,24 @@
+{   
+    "parent": "convergent:mining/deep",
+    "display": {
+        "icon": {
+            "item": "minecraft:bedrock"
+        },
+        "title": "Bottom Line",
+        "description": "How am I going back up?",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "bedrock": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"position": {
+					"y": {
+						"max": 10
+					}
+                }
+            }
+        }
+	}
+}

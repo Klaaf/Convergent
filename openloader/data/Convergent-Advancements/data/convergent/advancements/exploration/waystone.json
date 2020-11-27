@@ -1,0 +1,52 @@
+{
+	"parent": "convergent:exploration/runestone",
+	"display": {
+		"icon": {
+			"item": "waystones:waystone"
+		},
+		"title": {
+			"translate": "Advanced Travel"
+		},
+		"description": {
+			"translate": "Place your own Waystone"
+		},
+		"frame": "goal",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+        "waystone": {
+          "trigger": "minecraft:placed_block",
+          "conditions": {
+            "block": "waystones:waystone",
+            "item": {
+              "item": "waystones:waystone"
+            }
+          }
+        },
+        "mossy_waystone": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+            "block": "waystones:mossy_waystone",
+            "item": {
+                "item": "waystones:mossy_waystone"
+            }
+            }
+        },
+        "sandy_waystone": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+            "block": "waystones:sandy_waystone",
+            "item": {
+                "item": "waystones:sandy_waystone"
+            }
+            }
+        }
+    },
+	"requirements": [
+		[
+			"waystone","mossy_waystone","sandy_waystone"
+        ]
+    ]
+}

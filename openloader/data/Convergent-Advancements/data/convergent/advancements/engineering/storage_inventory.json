@@ -1,0 +1,30 @@
+{
+	"parent": "create:brass_casing",
+	"display": {
+		"icon": {
+			"item": "storagenetwork:inventory"
+		},
+		"title": {
+			"translate": "Inventory Connection"
+		},
+		"description": {
+			"translate": "Craft a Storage Inventory"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"inventory": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "storagenetwork:inventory"
+					}
+				]
+			}
+		}
+	}
+}

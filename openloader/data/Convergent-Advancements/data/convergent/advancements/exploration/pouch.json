@@ -1,0 +1,35 @@
+{
+	"parent": "convergent:exploration/toolbelt",
+	"display": {
+		"icon": {
+			"item": "toolbelt:pouch"
+		},
+		"title": {
+			"translate": "Fanny Pack"
+		},
+		"description": {
+			"translate": "Craft a Pouch to enhance your toolbelt"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"pouch": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "toolbelt:pouch"
+					}
+				]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"pouch"
+		]
+	]
+}

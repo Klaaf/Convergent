@@ -138,6 +138,14 @@
           "type": "minecraft:bee"
         }
       }
+    },
+    "mysticalworld:beetle": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": {
+          "type": "mysticalworld:beetle"
+        }
+      }
     }
   },
   "requirements": [
@@ -185,6 +193,9 @@
     ],
     [
       "minecraft:bee"
+    ],
+    [
+      "mysticalworld:beetle"
     ]
   ]
 }

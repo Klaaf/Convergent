@@ -1,0 +1,24 @@
+{   
+    "parent": "convergent:mining/root",
+    "display": {
+        "icon": {
+            "item": "create:scoria"
+        },
+        "title": "Cave Explorer",
+        "description": "I think I may be lost",
+        "show_toast": true,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "deep": {
+            "trigger": "minecraft:location",
+            "conditions": {
+				"position": {
+					"y": {
+						"max": 30
+					}
+                }
+            }
+        }
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:engineering/root",
+	"display": {
+		"icon": {
+			"item": "storagenetwork:kabel"
+		},
+		"title": {
+			"translate": "Storage Network"
+		},
+		"description": {
+			"translate": "Craft a Cable"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"kabel": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "storagenetwork:kabel"
+					}
+				]
+			}
+		}
+	}
+}

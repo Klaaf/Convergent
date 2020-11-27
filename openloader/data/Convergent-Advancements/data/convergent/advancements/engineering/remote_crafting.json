@@ -1,0 +1,30 @@
+{
+	"parent": "create:shadow_steel",
+	"display": {
+		"icon": {
+			"item": "storagenetwork:crafting_remote"
+		},
+		"title": {
+			"translate": "Remote Crafting"
+		},
+		"description": {
+			"translate": "Get a Crafting Remote"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"crafting_remote": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "storagenetwork:crafting_remote"
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,4 +1,4 @@
-{
+{   
     "display": {
         "icon": {
             "item": "minecraft:andesite"
@@ -13,17 +13,12 @@
         "underground": {
             "trigger": "minecraft:location",
             "conditions": {
-                "location": {
-                    "y": {
+				"position": {
+					"y": {
 						"max": 55
 					}
                 }
             }
         }
-	},
-    "requirements": [
-		[
-        "underground"
-		]
-    ]
+	}
 }

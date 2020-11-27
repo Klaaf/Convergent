@@ -11,22 +11,8 @@
     },	
     "criteria": {
         "trigger": {
-            "trigger": "minecraft:location",
-			"conditions": {
-				"player":  {
-					"player": {
-						"stats": [
-							{
-								"type": "minecraft:custom",
-								"stat": "minecraft:sprint_one_cm",
-								"value": {
-									"min": 10
-								}
-							}
-						]
-					}
-				}
-			}
+            "trigger": "minecraft:tick",
+			"conditions": {}
         }
     }
 }

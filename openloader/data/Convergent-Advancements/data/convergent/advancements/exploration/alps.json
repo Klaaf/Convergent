@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:snow_block"
+        },
+        "title": {
+            "translate": "High Altitude"
+        },
+        "description": {
+            "translate": "Discover Alps"
+        },
+        "frame": "goal",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "minecraft:adventure/sleep_in_bed",
+    "criteria": {
+        "alps": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "biomesoplenty:alps"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:scute"
+        },
+        "title": {"translate":"Species Preservation"},
+        "description": {"translate":"Get a Scute from a maturing baby turtle"}
+    },
+    "parent": "minecraft:husbandry/breed_an_animal",	
+    "criteria": {
+        "scute": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:scute"
+                    }
+                ]
+            }
+        }
+    }
+}

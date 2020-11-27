@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:mining/diamond_heart",
+	"display": {
+		"icon": {
+			"item": "quark:pickarang"
+		},
+		"title": {
+			"translate": "It Always Comes Back"
+		},
+		"description": {
+			"translate": "Craft a Pickarang"
+		},
+		"frame": "goal",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"pickarang": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "quark:pickarang"
+					}
+				]
+			}
+		}
+	}
+}

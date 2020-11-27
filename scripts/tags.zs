@@ -1,4 +1,4 @@
-#priority 501
+#priority 999
 
 import crafttweaker.api.tag.MCTag;
 import crafttweaker.api.block.MCBlockState;
@@ -15,6 +15,7 @@ for color in colors {
 	val shulkerbox = BracketHandlers.getItem("minecraft:" + color + "_shulker_box");
 	<tag:convergent:shulker_boxes>.addItems(shulkerbox);
 }
+
 
 // Enhanced Mushrooms
 <tag:minecraft:leaves>.removeBlocks(<blockstate:minecraft:brown_mushroom_block>);

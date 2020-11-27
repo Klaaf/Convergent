@@ -1,5 +1,5 @@
 {
-	"parent": "convergent:caving/root",
+	"parent": "convergent:mining/fiery_glass",
 	"display": {
 		"icon": {
 			"item": "druidcraft:fiery_torch"

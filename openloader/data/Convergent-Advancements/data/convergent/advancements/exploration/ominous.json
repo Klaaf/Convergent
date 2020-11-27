@@ -1,0 +1,25 @@
+{
+    "display": {
+        "icon": {
+            "item": "biomesoplenty:umbran_sapling"
+        },
+        "title": {
+            "translate": "Land of Sorcerers"
+        },
+        "description": {
+            "translate": "Discover Ominous Woods"
+        },
+        "frame": "goal",
+		"show_toast": true,
+        "announce_to_chat": true
+    },
+	"parent": "convergent:exploration/mystic",
+    "criteria": {
+        "ominous_woods": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "biomesoplenty:ominous_woods"
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "create:crafter",
+	"display": {
+		"icon": {
+			"item": "storagenetwork:request"
+		},
+		"title": {
+			"translate": "Omnipotent Crafter"
+		},
+		"description": {
+			"translate": "Get an Inventory Crafting"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": false,
+		"hidden": false
+	},
+	"criteria": {
+		"request": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "storagenetwork:request"
+					}
+				]
+			}
+		}
+	}
+}

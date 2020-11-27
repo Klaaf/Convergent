@@ -1,0 +1,30 @@
+{
+	"parent": "convergent:mining/deep",
+	"display": {
+		"icon": {
+			"item": "quark:diamond_heart"
+		},
+		"title": {
+			"translate": "A Coveted Treasure"
+		},
+		"description": {
+			"translate": "Find a Heart of Diamond"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"diamond_heart": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "quark:diamond_heart"
+					}
+				]
+			}
+		}
+	}
+}
