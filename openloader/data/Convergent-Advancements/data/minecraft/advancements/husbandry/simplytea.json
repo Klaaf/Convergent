@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/root",
+    "display": {
+      "icon": {
+        "item": "simplytea:tea_leaf"
+      },
+      "title": {
+        "translate": "Simply Tea"
+      },
+      "description": {
+        "translate": "Obtain a Tea Leaf"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "tea_leaf": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:tea_leaf"
+            }
+          ]
+        }
+      }
+    }
+}

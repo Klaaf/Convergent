@@ -16,7 +16,7 @@
 	},
 	"parent": "convergent:mining/deep",
 	"criteria": {
-	  "requirement": {
+	  "crystal": {
 		"trigger": "minecraft:inventory_changed",
 		"conditions": {
 		  "items": [

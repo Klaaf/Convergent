@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:husbandry/place_rotten_flesh",
+    "display": {
+      "icon": {
+        "item": "druidcraft:growth_lamp"
+      },
+      "title": {
+        "translate": "Undead Compost"
+      },
+      "description": {
+        "translate": "Place a Rotten Flesh Block under farmland to help your crops grow"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "rotten_flesh_block": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block": "druidcraft:growth_lamp"
+        }
+      }
+    }
+  }

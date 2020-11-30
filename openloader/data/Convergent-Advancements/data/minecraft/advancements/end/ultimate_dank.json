@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:end/dank",
+    "display": {
+      "icon": {
+        "item": "dankstorage:dank_7"
+      },
+      "title": "/DANK/",
+      "description": "Craft the ultimate Dank",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "dank_7": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "dankstorage:dank_7"
+            }
+          ]
+        }
+      }
+    }
+}

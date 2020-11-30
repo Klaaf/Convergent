@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:husbandry/plant_seed",
+    "display": {
+      "icon": {
+        "item": "charm:rotten_flesh_block"
+      },
+      "title": {
+        "translate": "Undead Recycling"
+      },
+      "description": {
+        "translate": "Place a Rotten Flesh Block under farmland to help your crops grow"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "rotten_flesh_block": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block": "charm:rotten_flesh_block"
+        }
+      }
+    }
+  }

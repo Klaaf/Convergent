@@ -1,0 +1,69 @@
+{
+    "parent": "minecraft:husbandry/root",
+    "display": {
+      "icon": {
+        "item": "farmersdelight:mixed_salad"
+      },
+      "title": {
+        "translate": "Healthy Lifestyle"
+      },
+      "description": {
+        "translate": "Eat a Salad"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "mixed": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "farmersdelight:mixed_salad"
+          }
+        }
+      },
+      "aubergine": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "mysticalworld:aubergine_salad"
+          }
+        }
+      },
+      "beetroot": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "mysticalworld:beetroot_salad"
+          }
+        }
+      },
+      "cactus_dandelion": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "mysticalworld:cactus_dandelion_salad"
+          }
+        }
+      },
+      "dandelion_cornflower": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "item": "mysticalworld:dandelion_cornflower_salad"
+          }
+        }
+      }
+    },
+    "requirements": [
+        [
+            "mixed",
+            "aubergine",
+            "beetroot",
+            "cactus_dandelion",
+            "dandelion_cornflower"
+        ]
+    ]
+}

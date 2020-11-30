@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/simplytea",
+    "display": {
+      "icon": {
+        "item": "simplytea:cup_tea_floral"
+      },
+      "title": {
+        "translate": "A Sweet Taste"
+      },
+      "description": {
+        "translate": "Brew a cup of floral tea"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "floral": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:cup_tea_floral"
+            }
+          ]
+        }
+      }
+    }
+}

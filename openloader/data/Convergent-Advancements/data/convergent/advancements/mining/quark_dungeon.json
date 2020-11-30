@@ -12,7 +12,7 @@
     },
     "parent": "convergent:mining/deep",
     "criteria": {
-        "requirement": {
+        "dungeon": {
             "trigger": "minecraft:location",
             "conditions": {
                 "feature": "quark:big_dungeon"

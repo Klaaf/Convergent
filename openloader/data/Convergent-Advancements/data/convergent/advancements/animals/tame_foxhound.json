@@ -1,0 +1,28 @@
+{
+    "parent": "minecraft:husbandry/tame_an_animal",
+    "display": {
+      "icon": {
+        "item": "minecraft:blaze_powder"
+      },
+      "title": {
+        "translate": "Infernal Doggo"
+      },
+      "description": {
+        "translate": "Tame a Foxhound with coal"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "beetle": {
+        "trigger": "minecraft:tame_animal",
+        "conditions": {
+          "entity": {
+            "type": "quark:foxhound"
+          }
+        }
+      }
+    }
+}

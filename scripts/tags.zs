@@ -1,4 +1,4 @@
-#priority 999
+#priority 1
 
 import crafttweaker.api.tag.MCTag;
 import crafttweaker.api.block.MCBlockState;

@@ -9,7 +9,7 @@
     },
     "parent": "convergent:mining/crystal",
     "criteria": {
-      "requirement": {
+      "enderchest": {
         "trigger": "minecraft:inventory_changed",
         "conditions": {
           "items": [

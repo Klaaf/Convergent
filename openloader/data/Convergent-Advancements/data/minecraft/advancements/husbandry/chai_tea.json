@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/black_tea",
+    "display": {
+      "icon": {
+        "item": "simplytea:cup_tea_chai"
+      },
+      "title": {
+        "translate": "Masala Goodness"
+      },
+      "description": {
+        "translate": "Brew a cup of chai tea"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "chai": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:cup_tea_chai"
+            }
+          ]
+        }
+      }
+    }
+}

@@ -1,0 +1,26 @@
+{ 
+    "parent": "convergent:villages/root",
+    "display": {
+      "icon": {
+        "item": "quark:ravager_hide"
+      },
+      "title": {
+        "translate": "Unwelcome Visitor"
+      },
+      "description": {
+        "translate": "Raid a Pillager Outpost"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "location",
+        "conditions": {
+          "feature": "pillager_outpost"
+        }
+      }
+    }
+  }

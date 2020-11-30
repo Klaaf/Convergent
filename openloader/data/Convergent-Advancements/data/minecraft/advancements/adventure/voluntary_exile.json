@@ -1,5 +1,5 @@
 {
-  "parent": "convergent:villages/root",
+  "parent": "convergent:villages/raid_outpost",
   "display": {
     "icon": {
       "item": "minecraft:white_banner",
@@ -14,7 +14,7 @@
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": true
+    "hidden": false
   },
   "criteria": {
     "voluntary_exile": {

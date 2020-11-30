@@ -1,0 +1,26 @@
+{
+    "parent": "minecraft:end/find_end_city",
+    "display": {
+      "icon": {
+        "item": "dankstorage:dank_1"
+      },
+      "title": "/dank/",
+      "description": "Craft a Dank",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "dank_1": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "dankstorage:dank_1"
+            }
+          ]
+        }
+      }
+    }
+}

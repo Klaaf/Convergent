@@ -8,7 +8,7 @@
     },
     "parent": "minecraft:husbandry/breed_an_animal",	
     "criteria": {
-        "scute": {
+        "shell": {
             "trigger": "minecraft:inventory_changed",
             "conditions": {
                 "items": [

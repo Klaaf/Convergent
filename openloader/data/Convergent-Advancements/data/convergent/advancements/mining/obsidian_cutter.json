@@ -16,7 +16,7 @@
 		"hidden": false
 	},
 	"criteria": {
-		"diamond_heart": {
+		"obsidian_cutter": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [

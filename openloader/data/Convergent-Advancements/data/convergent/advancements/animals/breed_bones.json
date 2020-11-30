@@ -1,0 +1,66 @@
+{
+    "parent": "minecraft:husbandry/breed_an_animal",
+    "display": {
+      "icon": {
+        "item": "minecraft:bone"
+      },
+      "title": {
+        "translate": "Bone'alot"
+      },
+      "description": {
+        "translate": "Breed all skeleton animals from the Nether"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "bones:skeleton_cow": {
+        "trigger": "minecraft:bred_animals",
+        "conditions": {
+          "parent": {
+            "type": "bones:skeleton_cow"
+          }
+        }
+      },
+      "bones:skeleton_pig": {
+        "trigger": "minecraft:bred_animals",
+        "conditions": {
+          "parent": {
+            "type": "bones:skeleton_pig"
+          }
+        }
+      },
+      "bones:skeleton_sheep": {
+        "trigger": "minecraft:bred_animals",
+        "conditions": {
+          "parent": {
+            "type": "bones:skeleton_sheep"
+          }
+        }
+      },
+      "bones:skeleton_chicken": {
+        "trigger": "minecraft:bred_animals",
+        "conditions": {
+          "parent": {
+            "type": "bones:skeleton_chicken"
+          }
+        }
+      }
+    },
+    "requirements": [
+      [
+        "bones:skeleton_cow"
+      ],
+      [
+        "bones:skeleton_pig"
+      ],
+      [
+        "bones:skeleton_sheep"
+      ],
+      [
+        "bones:skeleton_chicken"
+      ]
+    ]
+  }

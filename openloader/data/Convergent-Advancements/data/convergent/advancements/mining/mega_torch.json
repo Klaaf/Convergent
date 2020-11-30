@@ -1,0 +1,26 @@
+{
+    "parent": "convergent:mining/small_torch",
+    "display": {
+      "icon": {
+        "item": "magical_torches:mega_torch"
+      },
+      "title": {
+        "translate": "Blessed Light"
+      },
+      "description": {
+        "translate": "Craft and Place the Mega Torch, preventing spawns in a large radius"
+      },
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "mega": {
+        "trigger": "minecraft:placed_block",
+        "conditions": {
+          "block": "magical_torches:mega_torch"
+        }
+      }
+    }
+}

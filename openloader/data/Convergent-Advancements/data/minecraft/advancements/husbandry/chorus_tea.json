@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/floral_tea",
+    "display": {
+      "icon": {
+        "item": "simplytea:cup_tea_chorus"
+      },
+      "title": {
+        "translate": "Alien Drink"
+      },
+      "description": {
+        "translate": "Brew a cup of chorus tea"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "chorus": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:cup_tea_chorus"
+            }
+          ]
+        }
+      }
+    }
+}

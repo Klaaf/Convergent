@@ -1,0 +1,26 @@
+{
+  "parent": "convergent:villages/raid_outpost",
+  "display": {
+    "icon": {
+      "item": "quark:backpack"
+    },
+    "title": "I Got Your Back!",
+    "description": "Craft a Backpack",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "backpack": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "quark:backpack"
+          }
+        ]
+      }
+    }
+  }
+}

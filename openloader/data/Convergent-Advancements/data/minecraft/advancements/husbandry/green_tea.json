@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/simplytea",
+    "display": {
+      "icon": {
+        "item": "simplytea:cup_tea_green"
+      },
+      "title": {
+        "translate": "Tea Party"
+      },
+      "description": {
+        "translate": "Brew a cup of green tea"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "green": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:cup_tea_green"
+            }
+          ]
+        }
+      }
+    }
+}

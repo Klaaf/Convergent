@@ -1,0 +1,30 @@
+{
+    "parent": "minecraft:husbandry/simplytea",
+    "display": {
+      "icon": {
+        "item": "simplytea:cup_tea_black"
+      },
+      "title": {
+        "translate": "Sugar?"
+      },
+      "description": {
+        "translate": "Brew a cup of black tea"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "black": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "item": "simplytea:cup_tea_black"
+            }
+          ]
+        }
+      }
+    }
+}

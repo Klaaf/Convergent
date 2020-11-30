@@ -16,7 +16,7 @@
 		"hidden": false
 	},
 	"criteria": {
-		"diamond_heart": {
+		"circuit_wrench": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [

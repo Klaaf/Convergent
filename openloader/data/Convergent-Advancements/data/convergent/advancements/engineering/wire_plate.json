@@ -16,7 +16,7 @@
 		"hidden": false
 	},
 	"criteria": {
-		"diamond_heart": {
+		"wire_plate": {
 			"trigger": "minecraft:inventory_changed",
 			"conditions": {
 				"items": [

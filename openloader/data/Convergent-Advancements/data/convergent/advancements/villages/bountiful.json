@@ -13,8 +13,7 @@
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true,
-    "hidden": false,
-    "background": "bountiful:textures/block/bountyboard_top.png"
+    "hidden": false
   },
   "criteria": {
     "take_a_bounty": {

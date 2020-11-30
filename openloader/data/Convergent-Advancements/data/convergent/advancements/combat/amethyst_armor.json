@@ -1,0 +1,75 @@
+{
+  "parent": "convergent:combat/moonstone_armor",
+  "display": {
+    "icon": {
+      "item": "mysticalworld:amethyst_chestplate",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "Purple Knight"
+    },
+    "description": {
+      "translate": "Get a full set of Amethyst armor"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "amethyst_helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mysticalworld:amethyst_helmet"
+          }
+        ]
+      }
+    },
+    "amethyst_chestplate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mysticalworld:amethyst_chestplate"
+          }
+        ]
+      }
+    },
+    "amethyst_leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mysticalworld:amethyst_leggings"
+          }
+        ]
+      }
+    },
+    "amethyst_boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mysticalworld:amethyst_boots"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "amethyst_helmet"
+    ],
+    [
+      "amethyst_chestplate"
+    ],
+    [
+      "amethyst_leggings"
+    ],
+    [
+      "amethyst_boots"
+    ]
+  ]
+}
