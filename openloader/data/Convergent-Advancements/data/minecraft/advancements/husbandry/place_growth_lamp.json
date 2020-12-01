@@ -5,10 +5,10 @@
         "item": "druidcraft:growth_lamp"
       },
       "title": {
-        "translate": "Undead Compost"
+        "translate": "Magical Nutrients"
       },
       "description": {
-        "translate": "Place a Rotten Flesh Block under farmland to help your crops grow"
+        "translate": "Place a Lamp of Growth to make anything in a small radius grow faster. Even animals!"
       },
       "frame": "goal",
       "show_toast": true,
@@ -16,7 +16,7 @@
       "hidden": false
     },
     "criteria": {
-      "rotten_flesh_block": {
+      "growth_lamp": {
         "trigger": "minecraft:placed_block",
         "conditions": {
           "block": "druidcraft:growth_lamp"
